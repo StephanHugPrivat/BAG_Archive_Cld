@@ -1,0 +1,2707 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ItCodes ReleaseDate="01.01.2025">
+  <ItCode Code="-0.00.01.">
+    <DescriptionDe>Kein IT-Code</DescriptionDe>
+    <DescriptionFr>Pas de code IT</DescriptionFr>
+    <DescriptionIt>Kein IT-Code</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.">
+    <DescriptionDe>NERVENSYSTEM</DescriptionDe>
+    <DescriptionFr>SYSTEME NERVEUX</DescriptionFr>
+    <DescriptionIt>SISTEMA NERVOSO </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.01.">
+    <DescriptionDe>Analgetica</DescriptionDe>
+    <DescriptionFr>Analgetica</DescriptionFr>
+    <DescriptionIt>Analgesici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.01.10.">
+    <DescriptionDe>Antipyretische Analgetica</DescriptionDe>
+    <DescriptionFr>Analgésiques antipyrétiques</DescriptionFr>
+    <DescriptionIt>Analgesici antipiretici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.01.20.">
+    <DescriptionDe>Kombinierte antipyretische Analgetica</DescriptionDe>
+    <DescriptionFr>Analgésiques antipyrétiques composés</DescriptionFr>
+    <DescriptionIt>Analgesici antipiretici combinati</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.01.21.">
+    <DescriptionDe>Analgetica kombiniert mit Antiallergica</DescriptionDe>
+    <DescriptionFr>Analgésiques associés à des antiallergiques</DescriptionFr>
+    <DescriptionIt>Analgesici combinati con antiallergici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.01.22.">
+    <DescriptionDe>Analgetica kombiniert mit Spasmolytica</DescriptionDe>
+    <DescriptionFr>Analgésiques associés à des spasmolytiques</DescriptionFr>
+    <DescriptionIt>Analgesici combinati con antispastici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.01.23.">
+    <DescriptionDe>Analgetica kombiniert mit Myotonolytica</DescriptionDe>
+    <DescriptionFr>Analgésiques associés à des myotonolytiques</DescriptionFr>
+    <DescriptionIt>Analgesici combinati con miotonolitici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.01.30.">
+    <DescriptionDe>Narkotische Analgetica</DescriptionDe>
+    <DescriptionFr>Analgésiques stupéfiants</DescriptionFr>
+    <DescriptionIt>Analgesici narcotici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.01.40.">
+    <DescriptionDe>Kombinierte narkotische Analgetica</DescriptionDe>
+    <DescriptionFr>Analgésiques stupéfiants composés</DescriptionFr>
+    <DescriptionIt>Analgesici narcotici combinati</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.01.99.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varie </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.02.">
+    <DescriptionDe>Anaesthetica</DescriptionDe>
+    <DescriptionFr>Anaesthetica</DescriptionFr>
+    <DescriptionIt>Anestetici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.02.10.">
+    <DescriptionDe>Allgemeine Anaesthetica</DescriptionDe>
+    <DescriptionFr>Anesthésiques généraux</DescriptionFr>
+    <DescriptionIt>Anestetici generali </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.02.20.">
+    <DescriptionDe>Parenterale Lokalanaesthetica</DescriptionDe>
+    <DescriptionFr>Anesthésiques locaux parentéraux </DescriptionFr>
+    <DescriptionIt>Anestetici locali parenterali </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.03.">
+    <DescriptionDe>Schlafmittel</DescriptionDe>
+    <DescriptionFr>Somnifères</DescriptionFr>
+    <DescriptionIt>Ipnotici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.03.10.">
+    <DescriptionDe>Einfache Schlafmittel</DescriptionDe>
+    <DescriptionFr>Somnifères simples</DescriptionFr>
+    <DescriptionIt>Ipnotici soli</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.03.20.">
+    <DescriptionDe>Kombinierte Schlafmittel</DescriptionDe>
+    <DescriptionFr>Somnifères composés</DescriptionFr>
+    <DescriptionIt>Ipnotici combinati</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.04.">
+    <DescriptionDe>Sedativa/Tranquillantia</DescriptionDe>
+    <DescriptionFr>Sedativa/Tranquillantia</DescriptionFr>
+    <DescriptionIt>Sedativi / tranquillanti </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.04.10.">
+    <DescriptionDe>Einfache Sedativa/Tranquillantia</DescriptionDe>
+    <DescriptionFr>Sédatifs-tranquillisants simples</DescriptionFr>
+    <DescriptionIt>Sedativi / tranquillanti soli </DescriptionIt>
+    <Limitations>
+      <Limitation>
+        <LimitationCode>120PISL</LimitationCode>
+        <LimitationType>PKT</LimitationType>
+        <LimitationNiveau>IP</LimitationNiveau>
+        <LimitationValue>120</LimitationValue>
+        <DescriptionDe>Gesamthaft zugelassen &lt;b&gt;120&lt;/b&gt; Punkte. &lt;b&gt;Iniectabilia sine limitatione&lt;/b&gt;</DescriptionDe>
+        <DescriptionFr>Prescription limitée au maximum à &lt;b&gt;120&lt;/b&gt; points. &lt;b&gt;Iniectabilia sine limitatione&lt;/b&gt;</DescriptionFr>
+        <DescriptionIt>Ammessi in totale &lt;b&gt;120&lt;/b&gt; punti. &lt;b&gt;Iniectabilia sine limitatione&lt;/b&gt;</DescriptionIt>
+        <ValidFromDate>01.01.2000</ValidFromDate>
+        <ValidThruDate>31.12.9999</ValidThruDate>
+      </Limitation>
+    </Limitations>
+  </ItCode>
+  <ItCode Code="01.04.20.">
+    <DescriptionDe>Kombinierte Sedativa/Tranquillantia</DescriptionDe>
+    <DescriptionFr>Sédatifs-tranquillisants composés</DescriptionFr>
+    <DescriptionIt>Sedativi / tranquillanti combinati</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.05.">
+    <DescriptionDe>Neuroleptica</DescriptionDe>
+    <DescriptionFr>Neuroleptica</DescriptionFr>
+    <DescriptionIt>Neurolettici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.06.">
+    <DescriptionDe>Antidepressiva</DescriptionDe>
+    <DescriptionFr>Antidepressiva</DescriptionFr>
+    <DescriptionIt>Antidepressivi </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.07.">
+    <DescriptionDe>Antiepileptica</DescriptionDe>
+    <DescriptionFr>Antiepileptica</DescriptionFr>
+    <DescriptionIt>Antiepilettici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.07.10.">
+    <DescriptionDe>Einfache Antiepileptica</DescriptionDe>
+    <DescriptionFr>Antiépileptiques simples</DescriptionFr>
+    <DescriptionIt>Antiepilettici soli </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.07.20.">
+    <DescriptionDe>Kombinierte Antiepileptica</DescriptionDe>
+    <DescriptionFr>Antiépileptiques composés</DescriptionFr>
+    <DescriptionIt>Antiepilettici combinati </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.08.">
+    <DescriptionDe>Parkinson</DescriptionDe>
+    <DescriptionFr>Parkinson</DescriptionFr>
+    <DescriptionIt>Antiparkinsoniani </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.09.">
+    <DescriptionDe>Antiemetica</DescriptionDe>
+    <DescriptionFr>Antiemetica</DescriptionFr>
+    <DescriptionIt>Antiemetici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.10.">
+    <DescriptionDe>Stimulantia</DescriptionDe>
+    <DescriptionFr>Stimulantia</DescriptionFr>
+    <DescriptionIt>Stimolanti </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.10.10.">
+    <DescriptionDe>Schwache Stimulantien</DescriptionDe>
+    <DescriptionFr>Stimulants faibles</DescriptionFr>
+    <DescriptionIt>Stimolanti deboli </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.10.20.">
+    <DescriptionDe>Starke Stimulantien</DescriptionDe>
+    <DescriptionFr>Stimulants forts</DescriptionFr>
+    <DescriptionIt>Stimolanti forti </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.10.30.">
+    <DescriptionDe>Atemanaleptica</DescriptionDe>
+    <DescriptionFr>Analeptiques respiratoires</DescriptionFr>
+    <DescriptionIt>Analettici respiratori </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.11.">
+    <DescriptionDe>Anorexica</DescriptionDe>
+    <DescriptionFr>Anorexica</DescriptionFr>
+    <DescriptionIt>Anoressanti </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.12.">
+    <DescriptionDe>Myotonolytica</DescriptionDe>
+    <DescriptionFr>Myotonolytica</DescriptionFr>
+    <DescriptionIt>Miotonolitici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.13.">
+    <DescriptionDe>Myorelaxantia</DescriptionDe>
+    <DescriptionFr>Myorelaxantia</DescriptionFr>
+    <DescriptionIt>Miorilassanti </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.14.">
+    <DescriptionDe>Myasthenia gravis</DescriptionDe>
+    <DescriptionFr>Myasthenia gravis</DescriptionFr>
+    <DescriptionIt>Antimiastenici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.98.">
+    <DescriptionDe>Immunmodulatoren</DescriptionDe>
+    <DescriptionFr>Modulateurs immunologiques</DescriptionFr>
+    <DescriptionIt>Immunomodulatori </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="01.99.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varie</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.">
+    <DescriptionDe>HERZ UND KREISLAUF</DescriptionDe>
+    <DescriptionFr>COEUR ET CIRCULATION</DescriptionFr>
+    <DescriptionIt>SISTEMA CARDIOVASCOLARE </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.01.">
+    <DescriptionDe>Herzglycoside</DescriptionDe>
+    <DescriptionFr>Glycosides cardiotoniques</DescriptionFr>
+    <DescriptionIt>Glicosidi cardiaci</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.01.10.">
+    <DescriptionDe>Einfache Herzglycoside</DescriptionDe>
+    <DescriptionFr>Glycosides cardiotoniques simples</DescriptionFr>
+    <DescriptionIt>Glicosidi cardiaci soli</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.01.20.">
+    <DescriptionDe>Kombinierte Herzglycoside</DescriptionDe>
+    <DescriptionFr>Glycosides cardiotoniques composés</DescriptionFr>
+    <DescriptionIt>Glicosidi cardiaci combinati </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.02.">
+    <DescriptionDe>Antiarrhythmica</DescriptionDe>
+    <DescriptionFr>Antiarrhythmica</DescriptionFr>
+    <DescriptionIt>Antiaritmici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.03.">
+    <DescriptionDe>Betablocker</DescriptionDe>
+    <DescriptionFr>Bêtabloqueurs</DescriptionFr>
+    <DescriptionIt>Betabloccanti </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.04.">
+    <DescriptionDe>Gefässerweiternde Mittel</DescriptionDe>
+    <DescriptionFr>Vasodilatateurs</DescriptionFr>
+    <DescriptionIt>Vasodilatatori </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.04.10.">
+    <DescriptionDe>Nitroglyzerin und Analoge</DescriptionDe>
+    <DescriptionFr>Nitroglycérine et analogues</DescriptionFr>
+    <DescriptionIt>Nitroglicerina e analoghi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.04.20.">
+    <DescriptionDe>Kombiniertes Nitroglycerin und Analoge</DescriptionDe>
+    <DescriptionFr>Nitroglycérine et analogues combinés</DescriptionFr>
+    <DescriptionIt>Nitroglicerina e analoghi combinati </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.04.30.">
+    <DescriptionDe>Nikotinsäure und Derivate</DescriptionDe>
+    <DescriptionFr>Acide nicotinique et dérivés</DescriptionFr>
+    <DescriptionIt>Acido nicotinico e derivati</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.04.40.">
+    <DescriptionDe>Koronare und periphere gefässerweiternde Mittel</DescriptionDe>
+    <DescriptionFr>Vasodilatateurs coronariens et périphériques</DescriptionFr>
+    <DescriptionIt>Vasodilatatori coronarici e periferici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.04.50.">
+    <DescriptionDe>Gefässerweiternde Mittel und/oder cerebrale Aktivatoren</DescriptionDe>
+    <DescriptionFr>Vasodilatateurs et/ou activateurs cérébraux</DescriptionFr>
+    <DescriptionIt>Vasodilatatori e/o attivatori cerebrali </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.05.">
+    <DescriptionDe>Gefässverengende Mittel</DescriptionDe>
+    <DescriptionFr>Vasoconstricteurs</DescriptionFr>
+    <DescriptionIt>Vasocostrittori </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.05.10.">
+    <DescriptionDe>Migränemittel</DescriptionDe>
+    <DescriptionFr>Antimigraineux</DescriptionFr>
+    <DescriptionIt>Antiemicranici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.05.20.">
+    <DescriptionDe>Vasopressoren und Herzstimulantien</DescriptionDe>
+    <DescriptionFr>Vasopresseurs et stimulants cardiaques</DescriptionFr>
+    <DescriptionIt>Vasopressori e stimolanti cardiaci</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.06.">
+    <DescriptionDe>Calciumantagonisten</DescriptionDe>
+    <DescriptionFr>Antagonistes du calcium</DescriptionFr>
+    <DescriptionIt>Calcio-antagonisti</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.06.10.">
+    <DescriptionDe>Klassische Calciumantagonisten</DescriptionDe>
+    <DescriptionFr>Antagonistes classiques du calcium</DescriptionFr>
+    <DescriptionIt>Calcio-antagonisti classici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.06.20.">
+    <DescriptionDe>Andere Calciumantagonisten</DescriptionDe>
+    <DescriptionFr>Autres antagonistes du calcium</DescriptionFr>
+    <DescriptionIt>Altri calcio-antagonisti </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.07.">
+    <DescriptionDe>Blutdrucksenkende Mittel</DescriptionDe>
+    <DescriptionFr>Antihypertenseurs</DescriptionFr>
+    <DescriptionIt>Antipertensivi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.07.10.">
+    <DescriptionDe>Einfache blutdrucksenkende Mittel</DescriptionDe>
+    <DescriptionFr>Antihypertenseurs simples</DescriptionFr>
+    <DescriptionIt>Antipertensivi soli </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.07.20.">
+    <DescriptionDe>Kombinierte blutdrucksenkende Mittel</DescriptionDe>
+    <DescriptionFr>Antihypertenseurs composés</DescriptionFr>
+    <DescriptionIt>Antipertensivi combinati </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.08.">
+    <DescriptionDe>Venenmittel</DescriptionDe>
+    <DescriptionFr>Médicaments pour les veines</DescriptionFr>
+    <DescriptionIt>Medicamenti per le vene </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.08.10.">
+    <DescriptionDe>Allgemeine Venenmittel</DescriptionDe>
+    <DescriptionFr>Médicaments pour les veines généraux</DescriptionFr>
+    <DescriptionIt>Medicamenti per le vene generali </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.08.20.">
+    <DescriptionDe>Venenmittel zu externem Gebrauch</DescriptionDe>
+    <DescriptionFr>Médicaments pour les veines, à usage externe</DescriptionFr>
+    <DescriptionIt>Medicamenti per le vene per uso esterno </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.08.30.">
+    <DescriptionDe>Venenverödung</DescriptionDe>
+    <DescriptionFr>Sclérosants</DescriptionFr>
+    <DescriptionIt>Sclerosanti </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.09.">
+    <DescriptionDe>Antihaemorrhoidalia</DescriptionDe>
+    <DescriptionFr>Antihaemorrhoidalia</DescriptionFr>
+    <DescriptionIt>Antiemorroidali</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.09.10.">
+    <DescriptionDe>Antihaemorrhoidalia ohne Corticosteroide</DescriptionDe>
+    <DescriptionFr>Antihaemorrhoidalia sans corticostéroïdes</DescriptionFr>
+    <DescriptionIt>Antiemorroidali senza corticosteroidi </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.09.20.">
+    <DescriptionDe>Antihaemorrhoidalia mit Corticosteroiden</DescriptionDe>
+    <DescriptionFr>Antihaemorrhoidalia avec corticostéroïdes</DescriptionFr>
+    <DescriptionIt>Antiemorroidali con corticosteroidi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.97.">
+    <DescriptionDe>Beschwerden bei Arteriosklerose</DescriptionDe>
+    <DescriptionFr>Troubles dus à l'artériosclérose</DescriptionFr>
+    <DescriptionIt />
+    <Limitations />
+  </ItCode>
+  <ItCode Code="02.99.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varie </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="03.">
+    <DescriptionDe>LUNGE UND ATMUNG</DescriptionDe>
+    <DescriptionFr>SYSTEME RESPIRATOIRE</DescriptionFr>
+    <DescriptionIt>SISTEMA RESPIRATORIO</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="03.01.">
+    <DescriptionDe>Antitussiva</DescriptionDe>
+    <DescriptionFr>Béchiques</DescriptionFr>
+    <DescriptionIt>Antitosse</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="03.01.10.">
+    <DescriptionDe>Codein und Codein-Analoge</DescriptionDe>
+    <DescriptionFr>Codéine et analogues de la codéine</DescriptionFr>
+    <DescriptionIt>Codeina e analoghi della codeina </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="03.01.20.">
+    <DescriptionDe>Andere Antitussiva</DescriptionDe>
+    <DescriptionFr>Autres antitussifs</DescriptionFr>
+    <DescriptionIt>Altri antitosse</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="03.02.">
+    <DescriptionDe>Expectorantia et Mucolytica</DescriptionDe>
+    <DescriptionFr>Expectorants et mucolytiques</DescriptionFr>
+    <DescriptionIt>Espettoranti e mucolitici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="03.03.">
+    <DescriptionDe>Kombinierte Hustenpräparate</DescriptionDe>
+    <DescriptionFr>Préparations pectorales composées</DescriptionFr>
+    <DescriptionIt>Preparati per la tosse combinati</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="03.03.10.">
+    <DescriptionDe>Codein und Analoge</DescriptionDe>
+    <DescriptionFr>Codéine et analogues</DescriptionFr>
+    <DescriptionIt>Codeina e analoghi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="03.03.20.">
+    <DescriptionDe>Andere kombinierte Hustenpräparate</DescriptionDe>
+    <DescriptionFr>Autres préparations pectorales composées</DescriptionFr>
+    <DescriptionIt>Altri preparati per la tosse combinati</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="03.04.">
+    <DescriptionDe>Antiasthmatica</DescriptionDe>
+    <DescriptionFr>Antiasthmatiques</DescriptionFr>
+    <DescriptionIt>Antiasmatici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="03.04.10.">
+    <DescriptionDe>Theophyllin und Analoge</DescriptionDe>
+    <DescriptionFr>Théophylline et analogues</DescriptionFr>
+    <DescriptionIt>Teofillina e analoghi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="03.04.20.">
+    <DescriptionDe>Kombiniertes Theophyllin und Analoge</DescriptionDe>
+    <DescriptionFr>Théophylline combinée et analogues</DescriptionFr>
+    <DescriptionIt>Teofillina e analoghi combinati </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="03.04.30.">
+    <DescriptionDe>Sympathicomimetica und Parasympathicolytica</DescriptionDe>
+    <DescriptionFr>Sympathicomimétiques et parasympathicolytiques</DescriptionFr>
+    <DescriptionIt>Simpaticomimetici e parasimpaticolitici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="03.04.40.">
+    <DescriptionDe>Corticosteroide zur Inhalation</DescriptionDe>
+    <DescriptionFr>Corticostéroïdes pour inhalation</DescriptionFr>
+    <DescriptionIt>Corticosteroidi per inalazione </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="03.04.50.">
+    <DescriptionDe>Andere Antiasthmatica</DescriptionDe>
+    <DescriptionFr>Autres anti-asthmatiques</DescriptionFr>
+    <DescriptionIt>Altri antiasmatici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="03.05.">
+    <DescriptionDe>Mittel gegen Atemwegsinfektionen </DescriptionDe>
+    <DescriptionFr>Médicaments contre les infections des voies respiratoires</DescriptionFr>
+    <DescriptionIt>Medicamenti contro le infezioni delle vie respiratorie</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="03.06.">
+    <DescriptionDe>Einreibemittel</DescriptionDe>
+    <DescriptionFr>Préparations percutanées</DescriptionFr>
+    <DescriptionIt>Preparati per frizioni </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="03.99.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varie </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.">
+    <DescriptionDe>GASTROENTEROLOGICA</DescriptionDe>
+    <DescriptionFr>GASTROENTEROLOGICA</DescriptionFr>
+    <DescriptionIt>GASTROENTEROLOGICI</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.01.">
+    <DescriptionDe>Antacida</DescriptionDe>
+    <DescriptionFr>Antacida</DescriptionFr>
+    <DescriptionIt>Antiacidi </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.01.10.">
+    <DescriptionDe>Histamin H2-Rezeptoren Antagonist</DescriptionDe>
+    <DescriptionFr>Inhibiteur de l´histamine H2</DescriptionFr>
+    <DescriptionIt>Antagonisti dei recettori istaminici H2 </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.02.">
+    <DescriptionDe>Spasmolytica</DescriptionDe>
+    <DescriptionFr>Spasmolytica</DescriptionFr>
+    <DescriptionIt>Antispastici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.03.">
+    <DescriptionDe>Kombinierte Spasmolytica</DescriptionDe>
+    <DescriptionFr>Spasmolytiques composés</DescriptionFr>
+    <DescriptionIt>Antispastici combinati </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.03.10.">
+    <DescriptionDe>Spasmolytica kombiniert mit Antacida</DescriptionDe>
+    <DescriptionFr>Spasmolytiques combinés à des antiacides</DescriptionFr>
+    <DescriptionIt>Antispastici combinati con antiacidi </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.03.20.">
+    <DescriptionDe>Spasmolytica kombiniert mit Sedativa</DescriptionDe>
+    <DescriptionFr>Spasmolytiques combinés à des sédatifs</DescriptionFr>
+    <DescriptionIt>Antispastici combinati con sedativi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.03.30.">
+    <DescriptionDe>Spasmolytica kombiniert mit andern Wirkstoffen</DescriptionDe>
+    <DescriptionFr>Spasmolytiques combinés à d'autres substances active                             ances activestance</DescriptionFr>
+    <DescriptionIt>Antispastici combinati con altri principi attivi </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.04.">
+    <DescriptionDe>Entblähende Mittel</DescriptionDe>
+    <DescriptionFr>Antiflatulants</DescriptionFr>
+    <DescriptionIt>Carminativi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.05.">
+    <DescriptionDe>Enzympräparate und/oder ansäuernde Mittel</DescriptionDe>
+    <DescriptionFr>Préparations enzymatiques et/ou acidifiantes</DescriptionFr>
+    <DescriptionIt>Preparati a base di enzimi e/o medicamenti acidificanti </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.06.">
+    <DescriptionDe>Motilitätsfördernde Mittel</DescriptionDe>
+    <DescriptionFr>Stimulants de la motilité intestinale</DescriptionFr>
+    <DescriptionIt>Procinetici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.07.">
+    <DescriptionDe>Appetitfördernde Mittel</DescriptionDe>
+    <DescriptionFr>Stimulants de l''appétit</DescriptionFr>
+    <DescriptionIt>Stimolanti dell'appetito</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.08.">
+    <DescriptionDe>Laxantia</DescriptionDe>
+    <DescriptionFr>Laxantia</DescriptionFr>
+    <DescriptionIt>Lassativi </DescriptionIt>
+    <Limitations>
+      <Limitation>
+        <LimitationCode>KLEINPACKUNG</LimitationCode>
+        <LimitationType>DIA</LimitationType>
+        <LimitationNiveau>IP</LimitationNiveau>
+        <DescriptionDe>Gesamthaft zugelassen &lt;b&gt;2 Kleinpackungen&lt;/b&gt; oder &lt;b&gt;1 Grosspackung&lt;/b&gt;.
+Von dieser Beschränkung ist die Behandlung der Obstipation aufgrund von Opioidtherapie, von Parkinsontherapie sowie diejenige der Obstipation von Patienten, die Antidepressiva oder Neuroleptika unterstellt sind, ausgenommen. Im Weiteren sind davon ausgenommen Para- und Tetraplegiker.</DescriptionDe>
+        <DescriptionFr>Prescription limitée au maximum à &lt;b&gt;2 petits emballages&lt;/b&gt; ou &lt;b&gt;1 grand emballage&lt;/b&gt;.
+Cette limitation ne s'applique pas à la prise en charge des cas de constipation résultant d'un traitement par des opioïdes ou par des antiparkinsoniens ou encore à ceux consécutifs à la prise d'antidépresseurs ou de neuroleptiques. Cette limitation ne s'applique pas non plus aux paraplégiques et aux tétraplégiques.</DescriptionFr>
+        <DescriptionIt>Ammessi in totale: &lt;b&gt;2 confezioni piccole&lt;/b&gt; o &lt;b&gt;1 confezione grande&lt;/b&gt;.
+Fa eccezione a questa limitazione la terapia della stipsi conseguente al trattamento con analgesici narcotici (oppioidi), farmaci anti-Parkinson, farmaci antidepressivi e neurolettici. Ne sono inoltre esclusi i tetra- e i paraplegici.</DescriptionIt>
+        <ValidFromDate>01.01.2000</ValidFromDate>
+        <ValidThruDate>31.12.9999</ValidThruDate>
+      </Limitation>
+    </Limitations>
+  </ItCode>
+  <ItCode Code="04.08.10.">
+    <DescriptionDe>Orale Laxantien</DescriptionDe>
+    <DescriptionFr>Laxatifs à usage oral</DescriptionFr>
+    <DescriptionIt>Lassativi orali </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.08.11.">
+    <DescriptionDe>Synthetische und salinische Laxantien</DescriptionDe>
+    <DescriptionFr>Laxatifs de synthèse, laxatifs osmotiques salins</DescriptionFr>
+    <DescriptionIt>Lassativi sintetici e salini </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.08.12.">
+    <DescriptionDe>Zucker, Zuckeralkohole</DescriptionDe>
+    <DescriptionFr>Laxatifs osmotiques sucrés, polyalcools glucidiques</DescriptionFr>
+    <DescriptionIt>Lassativi a base di zuccheri, polioli </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.08.13.">
+    <DescriptionDe>Quellmittel und Füllmittel</DescriptionDe>
+    <DescriptionFr>Mucilages et fibres</DescriptionFr>
+    <DescriptionIt>Lassativi di volume </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.08.14.">
+    <DescriptionDe>Anthranoid-haltige Laxantien</DescriptionDe>
+    <DescriptionFr>Laxatifs anthracéniques</DescriptionFr>
+    <DescriptionIt>Lassativi antrachinonici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.08.15.">
+    <DescriptionDe>Anthranoid-haltige Laxantien kombiniert mit anderen Laxantien</DescriptionDe>
+    <DescriptionFr>Laxatifs anthracéniques associés à d''autres laxatifs</DescriptionFr>
+    <DescriptionIt>Lassativi antrachinonici combinati con altri lassativi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.08.20.">
+    <DescriptionDe>Rektale Laxantien</DescriptionDe>
+    <DescriptionFr>Laxatifs à usage rectal</DescriptionFr>
+    <DescriptionIt>Lassativi per uso rettale</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.09.">
+    <DescriptionDe>Antidiarrhoica</DescriptionDe>
+    <DescriptionFr>Antidiarrhoica</DescriptionFr>
+    <DescriptionIt>Antidiarroici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.10.">
+    <DescriptionDe>Adsorbentia / Adstringentia</DescriptionDe>
+    <DescriptionFr>Adsorbentia / Adstringentia</DescriptionFr>
+    <DescriptionIt>Adsorbenti / astringenti </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.11.">
+    <DescriptionDe>Gallenwegstherapeutica</DescriptionDe>
+    <DescriptionFr>Médicaments des voies biliaires</DescriptionFr>
+    <DescriptionIt>Medicamenti per la terapia biliare</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.11.10.">
+    <DescriptionDe>Gallensteinauflösende Mittel</DescriptionDe>
+    <DescriptionFr>Médicaments pour la dissolution des calculs biliaires</DescriptionFr>
+    <DescriptionIt>Colelitolitici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.11.20.">
+    <DescriptionDe>Cholagoga</DescriptionDe>
+    <DescriptionFr>Cholagoga</DescriptionFr>
+    <DescriptionIt>Colagoghi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="04.99.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varie </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="05.">
+    <DescriptionDe>NIEREN UND WASSERHAUSHALT</DescriptionDe>
+    <DescriptionFr>REINS ET SOLUTIONS DE SUBSTITUTION</DescriptionFr>
+    <DescriptionIt>RENI E BILANCIO IDRICO</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="05.01.">
+    <DescriptionDe>Diuretica</DescriptionDe>
+    <DescriptionFr>Diuretica</DescriptionFr>
+    <DescriptionIt>Diuretici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="05.02.">
+    <DescriptionDe>Mittel gegen Erkrankungen der Harnwege</DescriptionDe>
+    <DescriptionFr>Médicaments contre les affections des voies urinaires</DescriptionFr>
+    <DescriptionIt>Medicamenti contro le malattie delle vie urinarie</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="05.03.">
+    <DescriptionDe>Infundibilia</DescriptionDe>
+    <DescriptionFr>Infundibilia</DescriptionFr>
+    <DescriptionIt>Infusioni</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="05.03.10.">
+    <DescriptionDe>Kohlenhydrate rein</DescriptionDe>
+    <DescriptionFr>Hydrates de carbone purs</DescriptionFr>
+    <DescriptionIt>Carboidrati puri</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="05.03.20.">
+    <DescriptionDe>Elektrolyte rein</DescriptionDe>
+    <DescriptionFr>Electrolytes purs</DescriptionFr>
+    <DescriptionIt>Elettroliti puri</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="05.03.30.">
+    <DescriptionDe>Mischlösungen (Kohlenhydrate und Elektrolyte)</DescriptionDe>
+    <DescriptionFr>Solutions mixtes (Hydrates de carbone et électrolytes)</DescriptionFr>
+    <DescriptionIt>Soluzioni miste (carboidrati ed elettroliti)</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="05.03.40.">
+    <DescriptionDe>Andere</DescriptionDe>
+    <DescriptionFr>Autres</DescriptionFr>
+    <DescriptionIt>Altri</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="05.04.">
+    <DescriptionDe>Dialyselösungen</DescriptionDe>
+    <DescriptionFr>Solutions pour dialyse</DescriptionFr>
+    <DescriptionIt>Soluzioni per dialisi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="05.98.">
+    <DescriptionDe>Mittel bei Prostatabeschwerden</DescriptionDe>
+    <DescriptionFr>Médicaments en cas d'affections de la prostate</DescriptionFr>
+    <DescriptionIt>Medicamenti in caso di disturbo della prostata</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="05.99.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varie </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="06.">
+    <DescriptionDe>BLUT</DescriptionDe>
+    <DescriptionFr>SANG</DescriptionFr>
+    <DescriptionIt>SANGUE</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="06.01.10.">
+    <DescriptionDe>Blutkonserven und Plasmafraktionen</DescriptionDe>
+    <DescriptionFr>Conserves de sang et fractions plasmatiques</DescriptionFr>
+    <DescriptionIt>Conserve di sangue e frazioni plasmatiche</DescriptionIt>
+    <Limitations>
+      <Limitation>
+        <LimitationCode>BLUTPRODUKTE</LimitationCode>
+        <LimitationType>KOM</LimitationType>
+        <LimitationNiveau>IP</LimitationNiveau>
+        <DescriptionDe>Preisberechnung für Blutpräparate aufgrund des Fabrikabgabepreises zuzüglich einer Fixmarge wegen der speziellen Verteilersituation (praktisch kein Zwischenhandel) von Fr. 40.-- zuzüglich MWST.  Diese Berechnung gilt nicht für die Humanalbumine.</DescriptionDe>
+        <DescriptionFr>Calcul des prix des préparations sanguines sur la base du prix « ex factory », plus une marge fixe de 40 francs en raison de la situation particulière de distribution (pratiquement pas d'intermédiaire), TVA en sus. Ce calcul ne s'applique pas aux albumines humaines.</DescriptionFr>
+        <DescriptionIt>I prezzi sono calcolati per prodotti sanguini sulla base del prezzo di fabbrica per la consegna e di un margine fisso di 40.-- fr. a causa della situazione particolare della distribuzione (che avviene in pratica senza intermediari) più la IVA. Questo calcolo non è valido per l'albumina umana.</DescriptionIt>
+        <ValidFromDate>01.05.2014</ValidFromDate>
+        <ValidThruDate>31.12.9999</ValidThruDate>
+      </Limitation>
+    </Limitations>
+  </ItCode>
+  <ItCode Code="06.01.20.">
+    <DescriptionDe>Plasmaersatz</DescriptionDe>
+    <DescriptionFr>Succédanés du plasma</DescriptionFr>
+    <DescriptionIt>Succedanei del plasma </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="06.01.21.">
+    <DescriptionDe>Dextrane</DescriptionDe>
+    <DescriptionFr>Dextranes</DescriptionFr>
+    <DescriptionIt>Destrani</DescriptionIt>
+    <Limitations>
+      <Limitation>
+        <LimitationCode>DEXTRANE</LimitationCode>
+        <LimitationType>KOM</LimitationType>
+        <LimitationNiveau>IP</LimitationNiveau>
+        <DescriptionDe>Anwendung nur für den ambulanten Bereich</DescriptionDe>
+        <DescriptionFr>Utilisation uniquement en cas de traitement ambulatoire</DescriptionFr>
+        <DescriptionIt>Uso solo per trattamento ambulatorio</DescriptionIt>
+        <ValidFromDate>01.01.2000</ValidFromDate>
+        <ValidThruDate>31.12.9999</ValidThruDate>
+      </Limitation>
+    </Limitations>
+  </ItCode>
+  <ItCode Code="06.01.22.">
+    <DescriptionDe>Gelatine</DescriptionDe>
+    <DescriptionFr>Gélatine</DescriptionFr>
+    <DescriptionIt>Gelatine</DescriptionIt>
+    <Limitations>
+      <Limitation>
+        <LimitationCode>DEXTRANE</LimitationCode>
+        <LimitationType>KOM</LimitationType>
+        <LimitationNiveau>IP</LimitationNiveau>
+        <DescriptionDe>Anwendung nur für den ambulanten Bereich</DescriptionDe>
+        <DescriptionFr>Utilisation uniquement en cas de traitement ambulatoire</DescriptionFr>
+        <DescriptionIt>Uso solo per trattamento ambulatorio</DescriptionIt>
+        <ValidFromDate>01.01.2000</ValidFromDate>
+        <ValidThruDate>31.12.9999</ValidThruDate>
+      </Limitation>
+    </Limitations>
+  </ItCode>
+  <ItCode Code="06.01.23.">
+    <DescriptionDe>Andere</DescriptionDe>
+    <DescriptionFr>Autres</DescriptionFr>
+    <DescriptionIt>Altri</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="06.02.">
+    <DescriptionDe>Haemostatica</DescriptionDe>
+    <DescriptionFr>Haemostatica</DescriptionFr>
+    <DescriptionIt>Emostatici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="06.03.">
+    <DescriptionDe>Anticoagulantia</DescriptionDe>
+    <DescriptionFr>Anticoagulantia</DescriptionFr>
+    <DescriptionIt>Antitrombotici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="06.03.10.">
+    <DescriptionDe>Vitamin K-Antagonisten</DescriptionDe>
+    <DescriptionFr>Antagonistes de la vitamine K</DescriptionFr>
+    <DescriptionIt>Antagonisti della vitamina K</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="06.03.20.">
+    <DescriptionDe>Thrombozytenaggregationshemmer</DescriptionDe>
+    <DescriptionFr>Anti-agrégants plaquettaires</DescriptionFr>
+    <DescriptionIt>Antiaggreganti piastrinici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="06.03.30.">
+    <DescriptionDe>Heparin</DescriptionDe>
+    <DescriptionFr>Héparine</DescriptionFr>
+    <DescriptionIt>Eparina</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="06.03.40.">
+    <DescriptionDe>Faktor-Xa-Inhibitoren</DescriptionDe>
+    <DescriptionFr>Inhibiteurs du facteur Xa</DescriptionFr>
+    <DescriptionIt>Inibitori del fattore Xa</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="06.04.">
+    <DescriptionDe>Antagonisten der Antikoagulantien</DescriptionDe>
+    <DescriptionFr>Antagonistes des anticoagulants</DescriptionFr>
+    <DescriptionIt>Antagonisti degli antitrombotici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="06.05.">
+    <DescriptionDe>Fibrinolytica</DescriptionDe>
+    <DescriptionFr>Fibrinolytica</DescriptionFr>
+    <DescriptionIt>Fibrinolitici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="06.06.">
+    <DescriptionDe>Antifibrinolytica</DescriptionDe>
+    <DescriptionFr>Antifibrinolytica</DescriptionFr>
+    <DescriptionIt>Antifibrinolitici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="06.07.">
+    <DescriptionDe>Antianaemica</DescriptionDe>
+    <DescriptionFr>Antianaemica</DescriptionFr>
+    <DescriptionIt>Antianemici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="06.07.10.">
+    <DescriptionDe>Eisen</DescriptionDe>
+    <DescriptionFr>Fer</DescriptionFr>
+    <DescriptionIt>Ferro</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="06.07.11.">
+    <DescriptionDe>per os</DescriptionDe>
+    <DescriptionFr>per os</DescriptionFr>
+    <DescriptionIt>per os</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="06.07.12.">
+    <DescriptionDe>ad iniect.</DescriptionDe>
+    <DescriptionFr>ad iniect.</DescriptionFr>
+    <DescriptionIt>ad iniect.</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="06.07.20.">
+    <DescriptionDe>Vitamin B12</DescriptionDe>
+    <DescriptionFr>Vitamine B12</DescriptionFr>
+    <DescriptionIt>Vitamina B12</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="06.07.30.">
+    <DescriptionDe>Andere</DescriptionDe>
+    <DescriptionFr>Autres</DescriptionFr>
+    <DescriptionIt>Altri</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="06.99.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varie</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.">
+    <DescriptionDe>STOFFWECHSEL</DescriptionDe>
+    <DescriptionFr>METABOLISME</DescriptionFr>
+    <DescriptionIt>METABOLISMO</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.01.">
+    <DescriptionDe>Diaetetica</DescriptionDe>
+    <DescriptionFr>Produits diététiques</DescriptionFr>
+    <DescriptionIt>Agenti nutrizionali</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.01.10.">
+    <DescriptionDe>Ernährungsstörungen im Säuglingsalter</DescriptionDe>
+    <DescriptionFr>Dyspepsies du nourrissons</DescriptionFr>
+    <DescriptionIt>Disturbi dell'alimentazione nel lattante</DescriptionIt>
+    <Limitations>
+      <Limitation>
+        <LimitationCode>070110</LimitationCode>
+        <LimitationType>DIA</LimitationType>
+        <LimitationNiveau>IP</LimitationNiveau>
+        <DescriptionDe>Die aufgeführten Präparate dürfen nur für Säuglinge bis zu 12 Monaten verordnet werden.</DescriptionDe>
+        <DescriptionFr>Les préparations mentionnées ne doivent être prescrites que pour des nourrissons jusqu'à 12 mois.</DescriptionFr>
+        <DescriptionIt>I preparati elencati possono essere prescritti unicamente per i lattanti di età minore ai 12 mesi.</DescriptionIt>
+        <ValidFromDate>01.01.2000</ValidFromDate>
+        <ValidThruDate>31.12.9999</ValidThruDate>
+      </Limitation>
+    </Limitations>
+  </ItCode>
+  <ItCode Code="07.01.20.">
+    <DescriptionDe>Intravenöse Ernährung</DescriptionDe>
+    <DescriptionFr>Alimentation intraveineuse</DescriptionFr>
+    <DescriptionIt>Alimentazione endovena</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.01.30.">
+    <DescriptionDe>Spezialdiät</DescriptionDe>
+    <DescriptionFr>Produits diététiques spéciaux</DescriptionFr>
+    <DescriptionIt>Dietetici speciali</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.01.40.">
+    <DescriptionDe>Andere Ernährung</DescriptionDe>
+    <DescriptionFr>Autre alimentation</DescriptionFr>
+    <DescriptionIt>Altra alimentazione</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.02.">
+    <DescriptionDe>Mineralia et Vitamine</DescriptionDe>
+    <DescriptionFr>Mineralia et Vitamina</DescriptionFr>
+    <DescriptionIt>Minerali e vitamine</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.02.10.">
+    <DescriptionDe>Mineralia</DescriptionDe>
+    <DescriptionFr>Mineralia</DescriptionFr>
+    <DescriptionIt>Minerali</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.02.20.">
+    <DescriptionDe>Kombinierte Mineralien</DescriptionDe>
+    <DescriptionFr>Minéraux composés</DescriptionFr>
+    <DescriptionIt>Minerali combinati</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.02.30.">
+    <DescriptionDe>Einfache Vitamine</DescriptionDe>
+    <DescriptionFr>Vitamines simples</DescriptionFr>
+    <DescriptionIt>Vitamine sole</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.02.40.">
+    <DescriptionDe>Kombinierte Vitamine</DescriptionDe>
+    <DescriptionFr>Vitamines composées</DescriptionFr>
+    <DescriptionIt>Vitamine combinate</DescriptionIt>
+    <Limitations>
+      <Limitation>
+        <LimitationCode>070240</LimitationCode>
+        <LimitationType>PKT</LimitationType>
+        <LimitationNiveau>IP</LimitationNiveau>
+        <LimitationValue>40</LimitationValue>
+        <DescriptionDe>Gesamthaft zugelassen: &lt;b&gt;40&lt;/b&gt; Punkte</DescriptionDe>
+        <DescriptionFr>Prescription limitée au maximum à: &lt;b&gt;40&lt;/b&gt; points</DescriptionFr>
+        <DescriptionIt>Ammessi in totale: &lt;b&gt;40&lt;/b&gt; punti</DescriptionIt>
+        <ValidFromDate>01.01.2000</ValidFromDate>
+        <ValidThruDate>31.12.9999</ValidThruDate>
+      </Limitation>
+    </Limitations>
+  </ItCode>
+  <ItCode Code="07.02.50.">
+    <DescriptionDe>Andere Kombinationen</DescriptionDe>
+    <DescriptionFr>Autres associations</DescriptionFr>
+    <DescriptionIt>Altre combinazioni</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.03.">
+    <DescriptionDe>Hypophyse</DescriptionDe>
+    <DescriptionFr>Hypophyse</DescriptionFr>
+    <DescriptionIt>Ipofisi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.03.10.">
+    <DescriptionDe>Hypophysenvorderlappen</DescriptionDe>
+    <DescriptionFr>Hypophyse antérieure</DescriptionFr>
+    <DescriptionIt>Lobo anteriore dell'ipofisi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.03.20.">
+    <DescriptionDe>Hypophysenhinterlappen</DescriptionDe>
+    <DescriptionFr>Hypophyse postérieure</DescriptionFr>
+    <DescriptionIt>Lobo posteriore dell'ipofisi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.04.">
+    <DescriptionDe>Schilddrüse</DescriptionDe>
+    <DescriptionFr>Thyroïde</DescriptionFr>
+    <DescriptionIt>Tiroide</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.04.10.">
+    <DescriptionDe>Thyreotropin</DescriptionDe>
+    <DescriptionFr>Thyrétrophine</DescriptionFr>
+    <DescriptionIt>Tireotropina</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.04.20.">
+    <DescriptionDe>Schilddrüsenhormone</DescriptionDe>
+    <DescriptionFr>Hormones thyroïdiennes</DescriptionFr>
+    <DescriptionIt>Ormoni tiroidei</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.04.30.">
+    <DescriptionDe>Thyreostatica</DescriptionDe>
+    <DescriptionFr>Antithyroïdiens</DescriptionFr>
+    <DescriptionIt>Tireostatici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.05.">
+    <DescriptionDe>Calciotrope Hormone</DescriptionDe>
+    <DescriptionFr>Hormones calciotropes</DescriptionFr>
+    <DescriptionIt>Ormoni calciotropi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.05.10.">
+    <DescriptionDe>Parathormone</DescriptionDe>
+    <DescriptionFr>Parathormones</DescriptionFr>
+    <DescriptionIt>Paratormone</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.05.20.">
+    <DescriptionDe>Calcitonine</DescriptionDe>
+    <DescriptionFr>Calcitonines</DescriptionFr>
+    <DescriptionIt>Calcitonina</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.06.">
+    <DescriptionDe>Pankreas</DescriptionDe>
+    <DescriptionFr>Pancréas</DescriptionFr>
+    <DescriptionIt>Pancreas</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.06.10.">
+    <DescriptionDe>Insuline</DescriptionDe>
+    <DescriptionFr>Insulines</DescriptionFr>
+    <DescriptionIt>Insuline</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.06.20.">
+    <DescriptionDe>Orale blutzuckersenkende Mittel</DescriptionDe>
+    <DescriptionFr>Antidiabétiques oraux</DescriptionFr>
+    <DescriptionIt>Ipoglicemizzanti orali</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.06.30.">
+    <DescriptionDe>Glucagon</DescriptionDe>
+    <DescriptionFr>Glucagon</DescriptionFr>
+    <DescriptionIt>Glucagone</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.07.">
+    <DescriptionDe>Nebennierenrinde</DescriptionDe>
+    <DescriptionFr>Corticosurrénale</DescriptionFr>
+    <DescriptionIt>Corteccia surrenale</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.07.10.">
+    <DescriptionDe>Corticotropine (ACTH)</DescriptionDe>
+    <DescriptionFr>Corticotrophines (ACTH)</DescriptionFr>
+    <DescriptionIt>Corticotropina (ACTH)</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.07.20.">
+    <DescriptionDe>Glucocorticoide</DescriptionDe>
+    <DescriptionFr>Glucocorticoïdes</DescriptionFr>
+    <DescriptionIt>Glucocorticoidi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.07.21.">
+    <DescriptionDe>Cortisonum/Hydrocortisonum</DescriptionDe>
+    <DescriptionFr>Cortisonum/Hydrocortisonum</DescriptionFr>
+    <DescriptionIt>Cortisone / idrocortisone</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.07.22.">
+    <DescriptionDe>Prednisonum/Prednisolonum</DescriptionDe>
+    <DescriptionFr>Prednisonum/Prednisolonum</DescriptionFr>
+    <DescriptionIt>Prednisone / prednisolone</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.07.23.">
+    <DescriptionDe>Methylprednisolonum</DescriptionDe>
+    <DescriptionFr>Methylprednisolonum</DescriptionFr>
+    <DescriptionIt>Metilprednisolone</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.07.24.">
+    <DescriptionDe>Triamcinolonum</DescriptionDe>
+    <DescriptionFr>Triamcinolonum</DescriptionFr>
+    <DescriptionIt>Triamcinolone</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.07.25.">
+    <DescriptionDe>Betamethasonum</DescriptionDe>
+    <DescriptionFr>Betamethasonum</DescriptionFr>
+    <DescriptionIt>Betametasone</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.07.26.">
+    <DescriptionDe>Dexamethasonum</DescriptionDe>
+    <DescriptionFr>Dexaméthasone</DescriptionFr>
+    <DescriptionIt>Desametasone</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.07.27.">
+    <DescriptionDe>Andere Glucocorticoide</DescriptionDe>
+    <DescriptionFr>Autres glucocorticoïdes</DescriptionFr>
+    <DescriptionIt>Altri glucocorticoidi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.07.30.">
+    <DescriptionDe>Mineralocorticoide</DescriptionDe>
+    <DescriptionFr>Minéralocorticoïdes</DescriptionFr>
+    <DescriptionIt>Mineralcorticoidi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.07.40.">
+    <DescriptionDe>Adrenocorticostaticum</DescriptionDe>
+    <DescriptionFr>Adrenocorticostaticum</DescriptionFr>
+    <DescriptionIt>Adrenocorticostaticum</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.08.">
+    <DescriptionDe>Geschlechtshormone</DescriptionDe>
+    <DescriptionFr>Hormones sexuelles</DescriptionFr>
+    <DescriptionIt>Ormoni sessuali</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.08.10.">
+    <DescriptionDe>Gonadotrophine und Analoge</DescriptionDe>
+    <DescriptionFr>Gonadotrophines et analogues</DescriptionFr>
+    <DescriptionIt>Gonadotropine e analoghi</DescriptionIt>
+    <Limitations>
+      <Limitation>
+        <LimitationCode>070810 NEU</LimitationCode>
+        <LimitationType>AUD</LimitationType>
+        <LimitationNiveau>IP</LimitationNiveau>
+        <DescriptionDe>Nicht zur Adipositasbehandlung.&lt;br&gt;
+&lt;br&gt;
+Kostenübernahme nur nach vorgängiger endokrinologischer Untersuchung, bei Vorliegen einer Kostengutsprache durch den Krankenversicherer nach vorgängiger Konsultation des Vertrauensarztes. &lt;br&gt;
+&lt;br&gt;
+Im Fall einer Anwendung in der Reproduktionsmedizin (Stimulation des Follikelwachstums und der Ovulation):&lt;br&gt;
+Die maximale Behandlungsdauer beträgt ein Jahr. &lt;br&gt;
+Nicht zur Stimulierung einer Superovulation im Rahmen einer In-Vitro-Fertilisation (IVF).&lt;br&gt;</DescriptionDe>
+        <DescriptionFr>N'est pas remboursé pour le traitement de l'obésité.&lt;br&gt;
+&lt;br&gt;
+Remboursement uniquement après examen endocrinologique et pour autant que l'assureur-maladie ait accordé une garantie de prise en charge des coûts après consultation du médecin-conseil.&lt;br&gt;
+&lt;br&gt;
+En cas d'application en médecine de la reproduction (stimulation de la croissance folliculaire et de l'ovulation):&lt;br&gt;
+La durée maximale du traitement se limite à une année. &lt;br&gt;
+N'est pas remboursé pour la stimulation d'une superovulation dans le cadre d'une fécondation in vitro (FIV).&lt;br&gt;</DescriptionFr>
+        <DescriptionIt>Non viene rimunerato per la cura dell'adiposità.&lt;br&gt;
+&lt;br&gt;
+Pagamento delle spese soltanto previo esame endocrinologico, con una garanzia di assunzione dei costi da parte dell’assicurazione malattie previa consultazione del medico di fiducia.&lt;br&gt;
+&lt;br&gt;
+In caso di applicazione nell'ambito della medicina riproduttiva (stimolazione dello sviluppo follicolare e dell'ovulazione):&lt;br&gt;
+La durata massima del trattamento è limitata ad un anno. &lt;br&gt;
+Non viene rimunerato per la stimolazione di una superovulazione nell'ambito di una fecondazione in vitro (FIV).&lt;br&gt;</DescriptionIt>
+        <ValidFromDate>01.02.2024</ValidFromDate>
+        <ValidThruDate>31.12.9999</ValidThruDate>
+      </Limitation>
+    </Limitations>
+  </ItCode>
+  <ItCode Code="07.08.20.">
+    <DescriptionDe>Oestrogene</DescriptionDe>
+    <DescriptionFr>Oestrogènes</DescriptionFr>
+    <DescriptionIt>Estrogeni</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.08.30.">
+    <DescriptionDe>Gestagene</DescriptionDe>
+    <DescriptionFr>Gestagènes</DescriptionFr>
+    <DescriptionIt>Progestinici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.08.40.">
+    <DescriptionDe>Androgene</DescriptionDe>
+    <DescriptionFr>Androgènes</DescriptionFr>
+    <DescriptionIt>Androgeni</DescriptionIt>
+    <Limitations>
+      <Limitation>
+        <LimitationCode>070840</LimitationCode>
+        <LimitationType>DIA</LimitationType>
+        <LimitationNiveau>I</LimitationNiveau>
+        <DescriptionDe>Bei gynäkologischen Indikationen sowie bei männlichem Hypogonadismus und zur Einleitung der Pubertät.</DescriptionDe>
+        <DescriptionFr>Pour les indications gynécologiques ainsi que pour l'hypogonadisme mâle et l'induction de la puberté.</DescriptionFr>
+        <DescriptionIt>Per indicazioni ginecologiche come pure per ipogonadismo maschile e per l'induzione delle pubertà.</DescriptionIt>
+        <ValidFromDate>01.01.2000</ValidFromDate>
+        <ValidThruDate>31.12.9999</ValidThruDate>
+      </Limitation>
+    </Limitations>
+  </ItCode>
+  <ItCode Code="07.08.50.">
+    <DescriptionDe>Anabolica</DescriptionDe>
+    <DescriptionFr>Anabolica</DescriptionFr>
+    <DescriptionIt>Anabolizzanti</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.08.60.">
+    <DescriptionDe>Kombinationen</DescriptionDe>
+    <DescriptionFr>Combinaisons</DescriptionFr>
+    <DescriptionIt>Combinazioni</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.09.">
+    <DescriptionDe>Andere Hormone</DescriptionDe>
+    <DescriptionFr>Autres hormones</DescriptionFr>
+    <DescriptionIt>Altri ormoni</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.10.">
+    <DescriptionDe>Arthritis und rheumatische Krankheiten</DescriptionDe>
+    <DescriptionFr>Arthrites et affections rhumatismales</DescriptionFr>
+    <DescriptionIt>Artrite e malattie reumatiche</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.10.10.">
+    <DescriptionDe>Einfache entzündungshemmende Mittel </DescriptionDe>
+    <DescriptionFr>Anti-inflammatoires simples </DescriptionFr>
+    <DescriptionIt>Antiinfiammatori soli</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.10.20.">
+    <DescriptionDe>Kombinierte entzündungshemmende Mittel</DescriptionDe>
+    <DescriptionFr>Anti-inflammatoires composés</DescriptionFr>
+    <DescriptionIt>Antiinfiammatori combinati</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.10.21.">
+    <DescriptionDe>ohne Corticosteroide</DescriptionDe>
+    <DescriptionFr>sans Corticostéroïdes</DescriptionFr>
+    <DescriptionIt>senza corticosteroidi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.10.22.">
+    <DescriptionDe>mit Corticosteroiden</DescriptionDe>
+    <DescriptionFr>avec Corticostéroïdes</DescriptionFr>
+    <DescriptionIt>con corticosteroidi</DescriptionIt>
+    <Limitations>
+      <Limitation>
+        <LimitationCode>071022</LimitationCode>
+        <LimitationType>PKT</LimitationType>
+        <LimitationNiveau>I</LimitationNiveau>
+        <LimitationValue>80</LimitationValue>
+        <DescriptionDe>Gesamthaft zugelassen: &lt;b&gt;80&lt;/b&gt; Punkte.</DescriptionDe>
+        <DescriptionFr>Prescription limitée au maximum à: &lt;b&gt;80&lt;/b&gt; points.</DescriptionFr>
+        <DescriptionIt>Ammessi in totale: &lt;b&gt;80&lt;/b&gt; punti.</DescriptionIt>
+        <ValidFromDate>01.01.2000</ValidFromDate>
+        <ValidThruDate>31.12.9999</ValidThruDate>
+      </Limitation>
+    </Limitations>
+  </ItCode>
+  <ItCode Code="07.10.30.">
+    <DescriptionDe>Goldpräparate</DescriptionDe>
+    <DescriptionFr>Préparations à base d'or</DescriptionFr>
+    <DescriptionIt>Preparati a base di oro</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.10.40.">
+    <DescriptionDe>Kutane Mittel</DescriptionDe>
+    <DescriptionFr>Préparations cutanées</DescriptionFr>
+    <DescriptionIt>Medicamenti per uso topico</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.10.50.">
+    <DescriptionDe>Badezusätze und Umschläge</DescriptionDe>
+    <DescriptionFr>Préparations pour bains et cataplasmes</DescriptionFr>
+    <DescriptionIt>Preparati per il bagno e per impacchi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.10.60.">
+    <DescriptionDe>Andere Mittel gegen Arthritis und rheumatische Krankheiten</DescriptionDe>
+    <DescriptionFr>Autres médicaments contre l'arthrite et les affections rhumatismales</DescriptionFr>
+    <DescriptionIt>Altri medicamenti contro l'artrite e le malattie reumatiche</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.10.99.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varie</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.11.">
+    <DescriptionDe>Gichtmittel</DescriptionDe>
+    <DescriptionFr>Antigoutteux</DescriptionFr>
+    <DescriptionIt>Antigottosi </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.11.10.">
+    <DescriptionDe>Kolchizin</DescriptionDe>
+    <DescriptionFr>Colchicine</DescriptionFr>
+    <DescriptionIt>Colchicina</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.11.20.">
+    <DescriptionDe>Urikosurische Mittel</DescriptionDe>
+    <DescriptionFr>Uricosuriques</DescriptionFr>
+    <DescriptionIt>Uricosurici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.11.30.">
+    <DescriptionDe>Andere Gichtmittel</DescriptionDe>
+    <DescriptionFr>Autres antigoutteux</DescriptionFr>
+    <DescriptionIt>Altri antigottosi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.12.">
+    <DescriptionDe>Blutlipidsenkende Mittel</DescriptionDe>
+    <DescriptionFr>Hypolipémiants</DescriptionFr>
+    <DescriptionIt>Ipolipemizzanti</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.13.">
+    <DescriptionDe>Antiallergica</DescriptionDe>
+    <DescriptionFr>Antiallergica</DescriptionFr>
+    <DescriptionIt>Antiallergici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.13.10.">
+    <DescriptionDe>Antihistaminica</DescriptionDe>
+    <DescriptionFr>Antihistaminiques</DescriptionFr>
+    <DescriptionIt>Antistaminici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.13.20.">
+    <DescriptionDe>Andere Antiallergica</DescriptionDe>
+    <DescriptionFr>Autres antiallergiques</DescriptionFr>
+    <DescriptionIt>Altri antiallergici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.13.30.">
+    <DescriptionDe>Desensibilisierungslösungen</DescriptionDe>
+    <DescriptionFr>Solutions de désensibilisation</DescriptionFr>
+    <DescriptionIt>Soluzioni per desensibilizzazione</DescriptionIt>
+    <Limitations>
+      <Limitation>
+        <LimitationCode>071330</LimitationCode>
+        <LimitationType>DIA</LimitationType>
+        <LimitationNiveau>I</LimitationNiveau>
+        <DescriptionDe>Kostenübernahme nur nach vorgängiger allergologischer Abklärung.</DescriptionDe>
+        <DescriptionFr>Prise en charge seulement après exploration allergologique.</DescriptionFr>
+        <DescriptionIt>Pagamento delle spese soltanto previa esplorazione allergologica.</DescriptionIt>
+        <ValidFromDate>01.01.2000</ValidFromDate>
+        <ValidThruDate>31.12.9999</ValidThruDate>
+      </Limitation>
+    </Limitations>
+  </ItCode>
+  <ItCode Code="07.14.">
+    <DescriptionDe>Enzympräparate</DescriptionDe>
+    <DescriptionFr>Préparations enzymatiques</DescriptionFr>
+    <DescriptionIt>Preparati a base di enzimi </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.15.">
+    <DescriptionDe>Immunosuppressive Stoffe</DescriptionDe>
+    <DescriptionFr>Immunosuppresseurs</DescriptionFr>
+    <DescriptionIt>Immunosoppressori</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.16.">
+    <DescriptionDe>Oncologica</DescriptionDe>
+    <DescriptionFr>Oncologica</DescriptionFr>
+    <DescriptionIt>Oncologici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.16.10.">
+    <DescriptionDe>Cytostatica</DescriptionDe>
+    <DescriptionFr>Cytostatica</DescriptionFr>
+    <DescriptionIt>Citostatici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.16.20.">
+    <DescriptionDe>Hormone</DescriptionDe>
+    <DescriptionFr>Hormones</DescriptionFr>
+    <DescriptionIt>Ormoni </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.16.30.">
+    <DescriptionDe>Radio-Isotope</DescriptionDe>
+    <DescriptionFr>Radio-isotopes</DescriptionFr>
+    <DescriptionIt>Radioisotopi </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.16.40.">
+    <DescriptionDe>Andere</DescriptionDe>
+    <DescriptionFr>Autres</DescriptionFr>
+    <DescriptionIt>Altri</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="07.99.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varie </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.">
+    <DescriptionDe>INFEKTIONSKRANKHEITEN</DescriptionDe>
+    <DescriptionFr>MALADIES INFECTIEUSES</DescriptionFr>
+    <DescriptionIt>MALATTIE INFETTIVE </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.01.">
+    <DescriptionDe>Mittel gegen bakterielle Erreger </DescriptionDe>
+    <DescriptionFr>Préparations antibactériennes </DescriptionFr>
+    <DescriptionIt>Antibatterici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.01.10.">
+    <DescriptionDe>Sulfonamide</DescriptionDe>
+    <DescriptionFr>Sulfamidés</DescriptionFr>
+    <DescriptionIt>Sulfonamidi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.01.20.">
+    <DescriptionDe>Penicilline</DescriptionDe>
+    <DescriptionFr>Pénicillines</DescriptionFr>
+    <DescriptionIt>Penicilline</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.01.21.">
+    <DescriptionDe>Benzylpenicilline und Analoge</DescriptionDe>
+    <DescriptionFr>Benzylpénicillines et analogues</DescriptionFr>
+    <DescriptionIt>Benzilpenicilline e analoghi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.01.22.">
+    <DescriptionDe>Säurefeste Penicilline</DescriptionDe>
+    <DescriptionFr>Pénicillines acido-résistantes</DescriptionFr>
+    <DescriptionIt>Penicilline acido-resistenti</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.01.23.">
+    <DescriptionDe>Ampicilline und Analoge</DescriptionDe>
+    <DescriptionFr>Ampicillines et analogues</DescriptionFr>
+    <DescriptionIt>Ampicilline e analoghi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.01.24.">
+    <DescriptionDe>Penicillinase-resistente Penicilline</DescriptionDe>
+    <DescriptionFr>Pénicillines résistant à la pénicillinase</DescriptionFr>
+    <DescriptionIt>Penicilline resistenti alla penicillasi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.01.25.">
+    <DescriptionDe>Andere Penicilline (Breitspektrum-Penicilline)</DescriptionDe>
+    <DescriptionFr>Autres Pénicillines (pénicillines à large spectre)</DescriptionFr>
+    <DescriptionIt>Altre penicilline (penicilline ad ampio spettro)</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.01.30.">
+    <DescriptionDe>Cephalosporine</DescriptionDe>
+    <DescriptionFr>Céphalosporines</DescriptionFr>
+    <DescriptionIt>Cefalosporine</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.01.40.">
+    <DescriptionDe>Chloramphenicol und Analoge</DescriptionDe>
+    <DescriptionFr>Chloramphénicol et analogues</DescriptionFr>
+    <DescriptionIt>Cloramfenicolo e analoghi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.01.50.">
+    <DescriptionDe>Tetracycline</DescriptionDe>
+    <DescriptionFr>Tétracyclines</DescriptionFr>
+    <DescriptionIt>Tetracicline</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.01.60.">
+    <DescriptionDe>Erythromycin und Analoge</DescriptionDe>
+    <DescriptionFr>Erythromycine et analogues</DescriptionFr>
+    <DescriptionIt>Eritromicina e analoghi </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.01.70.">
+    <DescriptionDe>Aminoglycoside</DescriptionDe>
+    <DescriptionFr>Aminoglycosides</DescriptionFr>
+    <DescriptionIt>Aminoglicosidi </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.01.80.">
+    <DescriptionDe>Chinolone </DescriptionDe>
+    <DescriptionFr>Chinolones </DescriptionFr>
+    <DescriptionIt>Chinoloni  </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.01.90.">
+    <DescriptionDe>Andere Mittel gegen bakterielle Erreger</DescriptionDe>
+    <DescriptionFr>Autres préparations antibactériennes</DescriptionFr>
+    <DescriptionIt>Altri antibatterici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.01.91.">
+    <DescriptionDe>Polypeptid-Antibiotica</DescriptionDe>
+    <DescriptionFr>Antibiotiques polypeptidiques</DescriptionFr>
+    <DescriptionIt>Antibiotici polipeptidici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.01.92.">
+    <DescriptionDe>Lincomycine und Analoge</DescriptionDe>
+    <DescriptionFr>Lincomicines et analogues</DescriptionFr>
+    <DescriptionIt>Lincomicine e analoghi </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.01.93.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varie</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.01.94.">
+    <DescriptionDe>Kombinationen</DescriptionDe>
+    <DescriptionFr>Combinaisons</DescriptionFr>
+    <DescriptionIt>Combinazioni </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.01.99.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt />
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.02.">
+    <DescriptionDe>Tuberculostatica</DescriptionDe>
+    <DescriptionFr>Tuberculostatica</DescriptionFr>
+    <DescriptionIt>Tubercolostatici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.02.10.">
+    <DescriptionDe>Einfache Tuberculostatica</DescriptionDe>
+    <DescriptionFr>Tuberculostatiques simples</DescriptionFr>
+    <DescriptionIt>Tubercolostatici soli</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.02.20.">
+    <DescriptionDe>Kombinierte Tuberculostatica</DescriptionDe>
+    <DescriptionFr>Tuberculostatiques composés</DescriptionFr>
+    <DescriptionIt>Tubercolostatici combinati </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.03.">
+    <DescriptionDe>Mittel gegen Viren</DescriptionDe>
+    <DescriptionFr>Préparations antivirales</DescriptionFr>
+    <DescriptionIt>Antivirali</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.04.">
+    <DescriptionDe>Mittel gegen Protozoen</DescriptionDe>
+    <DescriptionFr>Préparations contre les protozoaires</DescriptionFr>
+    <DescriptionIt>Antiprotozoari </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.04.10.">
+    <DescriptionDe>Malaria</DescriptionDe>
+    <DescriptionFr>Malaria</DescriptionFr>
+    <DescriptionIt>Antimalarici</DescriptionIt>
+    <Limitations>
+      <Limitation>
+        <LimitationCode>MALARIA</LimitationCode>
+        <LimitationType>DIA</LimitationType>
+        <LimitationNiveau>I</LimitationNiveau>
+        <DescriptionDe>Prophylaktische Anwendung nicht zu Lasten der Krankenversicherer.</DescriptionDe>
+        <DescriptionFr>Utilisation à des fins prophylactiques non admise à la charge des assureurs-maladie.</DescriptionFr>
+        <DescriptionIt>Applicazione profilattica non a carico degli assicuratori-malattie.</DescriptionIt>
+        <ValidFromDate>01.01.2000</ValidFromDate>
+        <ValidThruDate>31.12.9999</ValidThruDate>
+      </Limitation>
+    </Limitations>
+  </ItCode>
+  <ItCode Code="08.04.20.">
+    <DescriptionDe>Syphilis</DescriptionDe>
+    <DescriptionFr>Syphilis</DescriptionFr>
+    <DescriptionIt>Antisifilitici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.04.30.">
+    <DescriptionDe>Andere Mittel gegen Protozoen</DescriptionDe>
+    <DescriptionFr>Autres préparations contre les protozoaires</DescriptionFr>
+    <DescriptionIt>Altri antiprotozoari </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.05.">
+    <DescriptionDe>Mittel gegen Parasiten</DescriptionDe>
+    <DescriptionFr>Préparations antiparasitaires</DescriptionFr>
+    <DescriptionIt>Antiparassitari </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.05.10.">
+    <DescriptionDe>Anthelmintica</DescriptionDe>
+    <DescriptionFr>Anthelmintica</DescriptionFr>
+    <DescriptionIt>Antielmintici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.05.20.">
+    <DescriptionDe>Andere Mittel gegen Parasiten</DescriptionDe>
+    <DescriptionFr>Autres préparations antiparasitaires</DescriptionFr>
+    <DescriptionIt>Altri antiparassitari </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.06.">
+    <DescriptionDe>Mittel gegen Pilze</DescriptionDe>
+    <DescriptionFr>Antimycotiques</DescriptionFr>
+    <DescriptionIt>Antimicotici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.07.">
+    <DescriptionDe>Seren</DescriptionDe>
+    <DescriptionFr>Sérums</DescriptionFr>
+    <DescriptionIt>Sieri </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.08.">
+    <DescriptionDe>Impfstoffe</DescriptionDe>
+    <DescriptionFr>Vaccins</DescriptionFr>
+    <DescriptionIt>Vaccini </DescriptionIt>
+    <Limitations>
+      <Limitation>
+        <LimitationCode>0808 NEU</LimitationCode>
+        <LimitationType>KOM</LimitationType>
+        <LimitationNiveau>I</LimitationNiveau>
+        <DescriptionDe>Die Kostenübernahme der Impfstoffe als Teil einer präventiven Massnahme im Rahmen der obligatorischen Krankenpflegeversicherung richtet sich nach den in Artikel 12a KLV für die jeweiligen Impfungen abschliessend festgelegten Voraussetzungen und erfolgt nur innerhalb der Zulassung durch Swissmedic. Bei beruflicher und reisemedizinischer Indikation erfolgt keine Kostenübernahme durch die obligatorische Krankenpflegeversicherung.&lt;br&gt;
+Die Preise der Impfstoffe sind Höchstpreise (Art. 52 Abs. 3 KVG) und kommen bei Reihenimpfungen (z.B. im schulärztlichen Dienst) nicht zur Anwendung. In diesen Fällen gelten die von den Krankenversicherern mit den zuständigen Behörden ausgehandelten bzw. die allenfalls von den Behörden festgesetzten Tarife. Wenn der Impfstoff zu einem günstigeren Preis bezogen wird (z.B. im Rahmen von Reihenimpfungen), darf der Arzt oder die Ärztin nicht den Publikumspreis der SL verrechnen.&lt;br&gt;
+Die Vergünstigung muss gemäss Artikel 56 Absatz 3 KVG weitergegeben werden, ausser es bestehen Vereinbarungen nach Artikel 56 Absatz 3&lt;sup&gt;bis&lt;/sup&gt; KVG.
+</DescriptionDe>
+        <DescriptionFr>La prise en charge des coûts des vaccins au titre de mesure préventive dans le cadre de l'assurance maladie obligatoire des soins est régie par les conditions contraignantes fixées à l'article 12a OPAS pour les vaccinations correspondantes et n'a lieu que dans le cadre de l'autorisation délivrée par Swissmedic. En cas d'indication professionnelle et de recommandation médicale aux voyageurs, la vaccination n'est pas prise en charge par l'assurance maladie obligatoire des soins. &lt;br&gt;
+Les prix des vaccins sont des prix maximaux (art. 52, al. 3, LAMal) et ne s'appliquent pas aux vaccinations en série (par ex. dans le service médical scolaire). Dans ce cas, les tarifs négociés par les assureurs maladie avec les autorités compétentes ou, le cas échéant, ceux fixés par les autorités, sont applicables. Si le vaccin est acheté à un prix inférieur (par exemple dans le cadre d'une série de vaccinations), le médecin ne peut pas le facturer au prix public de la LS.&lt;br&gt;
+L'avantage doit être répercuté conformément à l'article 56, al. 3, LAMal, hormis si des conventions au sens de l'art. 56, al. 3&lt;sup&gt;bis&lt;/sup&gt;, LAMal, ont été conclues.
+</DescriptionFr>
+        <DescriptionIt>L’assunzione dei costi dei vaccini, in quanto misura di prevenzione nel quadro dell’assicurazione obbligatoria delle cure medico-sanitarie, è disciplinata in modo esauriente dalle condizioni fissate per i vaccini interessati nell’articolo 12a Opre e avviene solo nell’ambito dell’omologazione rilasciata da Swissmedic. In caso di indicazione professionale e di medicina di viaggio, l’assicurazione obbligatoria delle cure medico-sanitarie non ne assume i costi.&lt;br&gt;
+I prezzi dei vaccini sono prezzi massimi (art. 52 cpv. 3 LAMal) e non si applicano alle vaccinazioni in serie (ad. es. quelle effettuate nell’ambito del servizio medico scolastico). In questi casi sono applicabili le tariffe negoziate dagli assicuratori malattie con le autorità competenti o quelle eventualmente stabilite dalle autorità. Se il vaccino è acquistato a un prezzo più conveniente (p. es. nel quadro di vaccinazioni in serie), il medico non può fatturare il prezzo per il pubblico che figura nell’ES.&lt;br&gt;
+Lo sconto deve essere fatto usufruire al debitore secondo l’articolo 56 capoverso 3 LAMal, tranne in caso di accordi di cui all’articolo 56 capoverso 3&lt;sup&gt;bis&lt;/sup&gt; LAMal.
+</DescriptionIt>
+        <ValidFromDate>01.12.2022</ValidFromDate>
+        <ValidThruDate>31.12.9999</ValidThruDate>
+      </Limitation>
+    </Limitations>
+  </ItCode>
+  <ItCode Code="08.09.">
+    <DescriptionDe>Immuno-Globuline ex Plasma humano</DescriptionDe>
+    <DescriptionFr>Immuno-Globuline ex Plasma humano</DescriptionFr>
+    <DescriptionIt>Immunoglobuline umane </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="08.99.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varie </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="09.">
+    <DescriptionDe>GYNAECOLOGICA</DescriptionDe>
+    <DescriptionFr>GYNAECOLOGICA</DescriptionFr>
+    <DescriptionIt>GINECOLOGICI</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="09.01.">
+    <DescriptionDe>Uterina</DescriptionDe>
+    <DescriptionFr>Uterina</DescriptionFr>
+    <DescriptionIt>Uterini </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="09.01.10.">
+    <DescriptionDe>Oxytocica</DescriptionDe>
+    <DescriptionFr>Oxytocica</DescriptionFr>
+    <DescriptionIt>Ossitocici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="09.01.20.">
+    <DescriptionDe>Tocolytica</DescriptionDe>
+    <DescriptionFr>Tocolytica</DescriptionFr>
+    <DescriptionIt>Tocolitici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="09.02.">
+    <DescriptionDe>Kontrazeptiva</DescriptionDe>
+    <DescriptionFr>Contraceptifs</DescriptionFr>
+    <DescriptionIt>Contraccettivi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="09.02.10.">
+    <DescriptionDe>Kontrazeptiva</DescriptionDe>
+    <DescriptionFr>Contraceptifs</DescriptionFr>
+    <DescriptionIt>Contraccettivi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="09.03.">
+    <DescriptionDe>Antiinfektiöse Mittel</DescriptionDe>
+    <DescriptionFr>Médicaments antiinfectieux</DescriptionFr>
+    <DescriptionIt>Antimicrobici e antisettici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="09.99.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varie</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="10.">
+    <DescriptionDe>DERMATOLOGICA</DescriptionDe>
+    <DescriptionFr>DERMATOLOGICA</DescriptionFr>
+    <DescriptionIt>DERMATOLOGICI </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="10.01.">
+    <DescriptionDe>Anaesthetica et Antipruriginosa</DescriptionDe>
+    <DescriptionFr>Anaesthetica et Antipruriginosa</DescriptionFr>
+    <DescriptionIt>Anestetici e antipruriginosi </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="10.02.">
+    <DescriptionDe>Mittel gegen Akne</DescriptionDe>
+    <DescriptionFr>Préparations contre l´acné</DescriptionFr>
+    <DescriptionIt>Preparati antiacne</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="10.03.">
+    <DescriptionDe>Mittel gegen Psoriasis </DescriptionDe>
+    <DescriptionFr>Préparations contre le psoriasis</DescriptionFr>
+    <DescriptionIt>Antipsoriasici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="10.04.">
+    <DescriptionDe>Mittel gegen chronisches Ekzem und Seborrhoe</DescriptionDe>
+    <DescriptionFr>Préparations contre l'eczéma chronique et la séborrhée</DescriptionFr>
+    <DescriptionIt>Preparati per eczema cronico e seborrea </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="10.05.">
+    <DescriptionDe>Corticosteroide</DescriptionDe>
+    <DescriptionFr>Corticostéroïdes</DescriptionFr>
+    <DescriptionIt>Corticosteroidi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="10.05.10.">
+    <DescriptionDe>Einfache Corticosteroide</DescriptionDe>
+    <DescriptionFr>Corticostéroïdes simples</DescriptionFr>
+    <DescriptionIt>Corticosteroidi soli</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="10.05.20.">
+    <DescriptionDe>Kombinierte Corticosteroide</DescriptionDe>
+    <DescriptionFr>Corticostéroïdes composés</DescriptionFr>
+    <DescriptionIt>Corticosteroidi combinati </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="10.06.">
+    <DescriptionDe>Mittel zur Behandlung von Ulcera und Wunden </DescriptionDe>
+    <DescriptionFr>Préparations contre les ulcères et les plaies</DescriptionFr>
+    <DescriptionIt>Preparati per il trattamento di ferite e ulcerazioni</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="10.07.">
+    <DescriptionDe>Keratolytica</DescriptionDe>
+    <DescriptionFr>Keratolytica</DescriptionFr>
+    <DescriptionIt>Cheratolitici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="10.08.">
+    <DescriptionDe>Adstringierende und entzündungshemmende Mittel</DescriptionDe>
+    <DescriptionFr>Préparations astringentes et antiinflammatoires</DescriptionFr>
+    <DescriptionIt>Preparati astringenti e antiinfiammatori </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="10.09.">
+    <DescriptionDe>Antiinfektiöse Mittel</DescriptionDe>
+    <DescriptionFr>Préparations antiinfectieuses</DescriptionFr>
+    <DescriptionIt>Antiinfettivi </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="10.09.10.">
+    <DescriptionDe>Desinfizierende Mittel</DescriptionDe>
+    <DescriptionFr>Désinfectants</DescriptionFr>
+    <DescriptionIt>Disinfettanti </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="10.09.20.">
+    <DescriptionDe>Mittel gegen bakterielle Erreger</DescriptionDe>
+    <DescriptionFr>Antibactériens</DescriptionFr>
+    <DescriptionIt>Antibatterici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="10.09.30.">
+    <DescriptionDe>Mittel gegen Viren</DescriptionDe>
+    <DescriptionFr>Préparations antivirales</DescriptionFr>
+    <DescriptionIt>Antivirali</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="10.09.40.">
+    <DescriptionDe>Mittel gegen Pilze</DescriptionDe>
+    <DescriptionFr>Antimycotiques</DescriptionFr>
+    <DescriptionIt>Antimicotici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="10.09.41.">
+    <DescriptionDe>Ohne Corticosteroide</DescriptionDe>
+    <DescriptionFr>Sans corticostéroïdes</DescriptionFr>
+    <DescriptionIt>Senza corticosteroidi </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="10.09.42.">
+    <DescriptionDe>Mit Corticosteroiden</DescriptionDe>
+    <DescriptionFr>Avec corticostéroïdes</DescriptionFr>
+    <DescriptionIt>Con corticosteroidi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="10.09.50.">
+    <DescriptionDe>Mittel gegen Parasiten</DescriptionDe>
+    <DescriptionFr>Antiparasitaires</DescriptionFr>
+    <DescriptionIt>Antiparassitari </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="10.10.">
+    <DescriptionDe>Mittel für empfindliche Haut</DescriptionDe>
+    <DescriptionFr>Préparations pour la peau délicate</DescriptionFr>
+    <DescriptionIt>Preparati per pelle sensibile</DescriptionIt>
+    <Limitations>
+      <Limitation>
+        <LimitationCode>1010</LimitationCode>
+        <LimitationType>PKT</LimitationType>
+        <LimitationNiveau>IP</LimitationNiveau>
+        <LimitationValue>60</LimitationValue>
+        <DescriptionDe>Gesamthaft zugelassen: &lt;b&gt;60&lt;/b&gt; Punkte.</DescriptionDe>
+        <DescriptionFr>Prescription limitée au maximum à: &lt;b&gt;60&lt;/b&gt; points.</DescriptionFr>
+        <DescriptionIt>Ammessi in totale: &lt;b&gt;60&lt;/b&gt; punti.</DescriptionIt>
+        <ValidFromDate>01.01.2000</ValidFromDate>
+        <ValidThruDate>31.12.9999</ValidThruDate>
+      </Limitation>
+    </Limitations>
+  </ItCode>
+  <ItCode Code="10.99.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varie</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="11.">
+    <DescriptionDe>OPHTHALMOLOGICA</DescriptionDe>
+    <DescriptionFr>OPHTHALMOLOGICA</DescriptionFr>
+    <DescriptionIt>OFTALMOLOGICI </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="11.01.">
+    <DescriptionDe>Miotica</DescriptionDe>
+    <DescriptionFr>Miotica</DescriptionFr>
+    <DescriptionIt>Miotici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="11.02.">
+    <DescriptionDe>Mydriatica</DescriptionDe>
+    <DescriptionFr>Mydriatica</DescriptionFr>
+    <DescriptionIt>Midriatici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="11.03.">
+    <DescriptionDe>Lokalanaesthetica</DescriptionDe>
+    <DescriptionFr>Anesthésiques locaux</DescriptionFr>
+    <DescriptionIt>Anestetici locali</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="11.04.">
+    <DescriptionDe>Gefässverengende Mittel</DescriptionDe>
+    <DescriptionFr>Vasoconstricteurs</DescriptionFr>
+    <DescriptionIt>Vasocostrittori</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="11.05.">
+    <DescriptionDe>Gefässerweiternde Mittel</DescriptionDe>
+    <DescriptionFr>Vasodilatateurs</DescriptionFr>
+    <DescriptionIt>Vasodilatatori</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="11.06.">
+    <DescriptionDe>Entzündungshemmende Mittel</DescriptionDe>
+    <DescriptionFr>Préparations antiphlogistiques</DescriptionFr>
+    <DescriptionIt>Antiinfiammatori</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="11.06.10.">
+    <DescriptionDe>Corticosteroide</DescriptionDe>
+    <DescriptionFr>Corticostéroïdes</DescriptionFr>
+    <DescriptionIt>Corticosteroidi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="11.06.20.">
+    <DescriptionDe>Antiallergische Mittel</DescriptionDe>
+    <DescriptionFr>Antiallergiques</DescriptionFr>
+    <DescriptionIt>Antiallergici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="11.06.30.">
+    <DescriptionDe>Andere entzündungshemmende Mittel</DescriptionDe>
+    <DescriptionFr>Autres préparations antiphlogistiques</DescriptionFr>
+    <DescriptionIt>Altri antiinfiammatori</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="11.07.">
+    <DescriptionDe>Antiinfektiöse Mittel</DescriptionDe>
+    <DescriptionFr>Préparations antiinfectieuses</DescriptionFr>
+    <DescriptionIt>Antiinfettivi </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="11.07.10.">
+    <DescriptionDe>Mittel gegen bakterielle Erreger</DescriptionDe>
+    <DescriptionFr>Antibactériens</DescriptionFr>
+    <DescriptionIt>Antibatterici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="11.07.20.">
+    <DescriptionDe>Mittel gegen Viren</DescriptionDe>
+    <DescriptionFr>Préparations antivirales</DescriptionFr>
+    <DescriptionIt>Antivirali </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="11.07.30.">
+    <DescriptionDe>Mittel gegen Pilze</DescriptionDe>
+    <DescriptionFr>Antimycotiques</DescriptionFr>
+    <DescriptionIt>Antimicotici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="11.08.">
+    <DescriptionDe>Physikalisch wirkende Mittel</DescriptionDe>
+    <DescriptionFr>Préparations à action physique</DescriptionFr>
+    <DescriptionIt>Preparati ad azione fisica</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="11.08.10.">
+    <DescriptionDe>Kontaktlinsenflüssigkeit</DescriptionDe>
+    <DescriptionFr>Solutions pour verres de contact</DescriptionFr>
+    <DescriptionIt>Liquido per lenti a contatto </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="11.08.20.">
+    <DescriptionDe>Tränenflüssigkeits-Ersatz</DescriptionDe>
+    <DescriptionFr>Larmes artificielles</DescriptionFr>
+    <DescriptionIt>Lacrime artificiali</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="11.09.">
+    <DescriptionDe>Präparate gegen Glaukom</DescriptionDe>
+    <DescriptionFr>Préparations contre le glaucome</DescriptionFr>
+    <DescriptionIt>Antiglaucoma</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="11.10.">
+    <DescriptionDe>Anticataractica</DescriptionDe>
+    <DescriptionFr>Anticataractica</DescriptionFr>
+    <DescriptionIt>Anticataratta</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="11.99.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varie</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="12.">
+    <DescriptionDe>OTO-RHINOLARYNGOLOGICA</DescriptionDe>
+    <DescriptionFr>OTO-RHINOLARYNGOLOGICA</DescriptionFr>
+    <DescriptionIt>OTORINOLARINGOLOGICI</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="12.01.">
+    <DescriptionDe>Ohren</DescriptionDe>
+    <DescriptionFr>Oreilles</DescriptionFr>
+    <DescriptionIt>Otologici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="12.01.10.">
+    <DescriptionDe>Schmerzlindernde und entzündungshemmende Mittel</DescriptionDe>
+    <DescriptionFr>Préparations anesthésiques et antiinflammatoires</DescriptionFr>
+    <DescriptionIt>Analgesici e antiinfiammatori</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="12.01.20.">
+    <DescriptionDe>Antiinfektiöse Mittel</DescriptionDe>
+    <DescriptionFr>Préparations antiinfectieuses</DescriptionFr>
+    <DescriptionIt>Antiinfettivi </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="12.01.30.">
+    <DescriptionDe>Antiinfektiöse Mittel mit Corticosteroiden</DescriptionDe>
+    <DescriptionFr>Préparations antiinfectieuses avec corticostéroïdes</DescriptionFr>
+    <DescriptionIt>Antiinfettivi con corticosteroidi</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="12.01.40.">
+    <DescriptionDe>Andere Mittel für Ohrenkrankheiten</DescriptionDe>
+    <DescriptionFr>Autres préparations auriculaires</DescriptionFr>
+    <DescriptionIt>Altri otologici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="12.02.">
+    <DescriptionDe>Nase</DescriptionDe>
+    <DescriptionFr>Nez</DescriptionFr>
+    <DescriptionIt>Rinologici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="12.02.10.">
+    <DescriptionDe>Gefässverengende Mittel </DescriptionDe>
+    <DescriptionFr>Vasoconstricteurs </DescriptionFr>
+    <DescriptionIt>Vasocostrittori </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="12.02.20.">
+    <DescriptionDe>Kombinierte gefässverengende Mittel/kombinierte  Antihistaminica/übrige Kombinationen</DescriptionDe>
+    <DescriptionFr>Vasoconstricteurs composés/Antihistaminiques composés/Autres combinaisons</DescriptionFr>
+    <DescriptionIt>Vasocostrittori combinati / antistaminici combinati / altre combinazioni</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="12.02.30.">
+    <DescriptionDe>Nasenmittel mit Corticosteroiden</DescriptionDe>
+    <DescriptionFr>Préparations nasales avec corticostéroïdes</DescriptionFr>
+    <DescriptionIt>Rinologici con corticosteroidi </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="12.02.40.">
+    <DescriptionDe>Sekretolytische und befeuchtende Mittel</DescriptionDe>
+    <DescriptionFr>Préparations sécrétolytiques et humidifiantes</DescriptionFr>
+    <DescriptionIt>Secretolitici e umettanti </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="12.02.50.">
+    <DescriptionDe>Antiinfektiöse Mittel</DescriptionDe>
+    <DescriptionFr>Préparations antiinfectieuses</DescriptionFr>
+    <DescriptionIt>Antiinfettivi </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="12.02.60.">
+    <DescriptionDe>Systemische, auf die Nasenschleimhaut wirkende Mittel</DescriptionDe>
+    <DescriptionFr>Systémiques, agissant sur les muqueuses du nez</DescriptionFr>
+    <DescriptionIt>Medicamenti sistemici agenti sulla mucosa nasale</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="12.02.70.">
+    <DescriptionDe>Antihistaminica</DescriptionDe>
+    <DescriptionFr>Antihistaminica</DescriptionFr>
+    <DescriptionIt>Antistaminici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="12.02.80.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varie </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="12.03.">
+    <DescriptionDe>Mund und Rachen</DescriptionDe>
+    <DescriptionFr>Bouche et gorge</DescriptionFr>
+    <DescriptionIt>Cavo orale e gola</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="12.03.10.">
+    <DescriptionDe>Kombinierte Lokalanaesthetica</DescriptionDe>
+    <DescriptionFr>Anesthésiques locaux composés</DescriptionFr>
+    <DescriptionIt>Anestetici locali combinati </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="12.03.20.">
+    <DescriptionDe>Entzündungshemmende Mittel</DescriptionDe>
+    <DescriptionFr>Préparations antiphlogistiques</DescriptionFr>
+    <DescriptionIt>Antiinfiammatori </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="12.03.30.">
+    <DescriptionDe>Mittel gegen bakterielle Erreger</DescriptionDe>
+    <DescriptionFr>Antibactériens</DescriptionFr>
+    <DescriptionIt>Antibatterici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="12.03.40.">
+    <DescriptionDe>Mittel gegen Pilze</DescriptionDe>
+    <DescriptionFr>Antimycotiques</DescriptionFr>
+    <DescriptionIt>Antimicotici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="12.99.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varie </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="13.">
+    <DescriptionDe>ODONTOSTOMATOLOGICA </DescriptionDe>
+    <DescriptionFr>ODONTOSTOMATOLOGICA </DescriptionFr>
+    <DescriptionIt>ODONTOSTOMATOLOGICI   </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="13.01.">
+    <DescriptionDe>LOKALANAESTHETICA</DescriptionDe>
+    <DescriptionFr>ANESTHESIQUES LOCAUX</DescriptionFr>
+    <DescriptionIt>ANESTETICI LOCALI</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="13.01.10.">
+    <DescriptionDe>Oberflächenanästhetica</DescriptionDe>
+    <DescriptionFr>Anesthésie de surface</DescriptionFr>
+    <DescriptionIt>Anestetici di superficie</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="13.01.20.">
+    <DescriptionDe>Infiltrations- und Leitungsanästhetica</DescriptionDe>
+    <DescriptionFr>Anesthésie par infiltration, anesthésie de conduction</DescriptionFr>
+    <DescriptionIt>Anestetici di infiltrazione e conduzione </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="13.02.">
+    <DescriptionDe>WUNDVERSORGUNG</DescriptionDe>
+    <DescriptionFr>SOINS DES PLAIES</DescriptionFr>
+    <DescriptionIt>TRATTAMENTO DI FERITE</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="13.02.10.">
+    <DescriptionDe>Gefässverengende Mittel</DescriptionDe>
+    <DescriptionFr>Vasoconstricteurs</DescriptionFr>
+    <DescriptionIt>Vasocostrittori </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="13.02.20.">
+    <DescriptionDe>Wundverbände</DescriptionDe>
+    <DescriptionFr>Pansements vulnéraires</DescriptionFr>
+    <DescriptionIt>Bendaggi di ferite</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="13.02.30.">
+    <DescriptionDe>Andere</DescriptionDe>
+    <DescriptionFr>Autres</DescriptionFr>
+    <DescriptionIt>Altri</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="13.03.">
+    <DescriptionDe>ENDODONTISCHE PRAEPARATE</DescriptionDe>
+    <DescriptionFr>PREPARATIONS POUR L'ENDODONTE</DescriptionFr>
+    <DescriptionIt>PREPARATI ENDODONTICI </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="13.04.">
+    <DescriptionDe>AUF DIE GINGIVA UND DIE UEBRIGE MUNDSCHLEIMHAUT WIRKENDE MITTEL</DescriptionDe>
+    <DescriptionFr>PREPARATIONS AGISSANT SUR LA GENCIVE ET LA MUQUEUSE BUCCALE</DescriptionFr>
+    <DescriptionIt>PREPARATI AGENTI SULLA GENGIVA E SULLA MUCOSA ORALE</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="13.05.">
+    <DescriptionDe>KARIESPROPHYLAXE</DescriptionDe>
+    <DescriptionFr>PREVENTION DE LA CARIE</DescriptionFr>
+    <DescriptionIt>PROFILASSI DELLA CARIE</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="13.05.10.">
+    <DescriptionDe>Fluor</DescriptionDe>
+    <DescriptionFr>Fluor</DescriptionFr>
+    <DescriptionIt>Fluoro </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="13.05.20.">
+    <DescriptionDe>Andere</DescriptionDe>
+    <DescriptionFr>Autres</DescriptionFr>
+    <DescriptionIt>Altri </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="13.06.">
+    <DescriptionDe>MUND- UND ZAHNINFEKTIONEN</DescriptionDe>
+    <DescriptionFr>INFECTIONS BUCCALES ET DENTAIRES</DescriptionFr>
+    <DescriptionIt>INFEZIONI ORALI E DENTARIE</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="13.07.">
+    <DescriptionDe>PARODONTOPATHIEN</DescriptionDe>
+    <DescriptionFr>PARODONTOPATHIES</DescriptionFr>
+    <DescriptionIt>PARODONTOPATIE </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="13.08.">
+    <DescriptionDe>ZAHNOBERFLAECHEN- UND DENTINDESENSIBILISIERUNGSMITTEL</DescriptionDe>
+    <DescriptionFr>DESENSIBILISATION DE L'EMAIL ET DE LA DENTINE</DescriptionFr>
+    <DescriptionIt>PREPARATI PER LA DESENSIBILIZZAZIONE DELLA SUPERFICIE DENTALE E DELLA DENTINA </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="13.99.">
+    <DescriptionDe>VARIA</DescriptionDe>
+    <DescriptionFr>VARIA</DescriptionFr>
+    <DescriptionIt>VARIE</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="14.">
+    <DescriptionDe>DIAGNOSTICA</DescriptionDe>
+    <DescriptionFr>DIAGNOSTICA</DescriptionFr>
+    <DescriptionIt>DIAGNOSTICI </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="14.01.">
+    <DescriptionDe>Röntgenkontrastmittel</DescriptionDe>
+    <DescriptionFr>Radio-opacifiants</DescriptionFr>
+    <DescriptionIt>Mezzi di contrasto radiologici </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="14.01.10.">
+    <DescriptionDe>Parenterale wasserlössliche Iod-Präparate</DescriptionDe>
+    <DescriptionFr>Préparations de iode hydrosolubles pour usage parentéral</DescriptionFr>
+    <DescriptionIt>Preparati iodati idrosolubili parenterali </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="14.01.11.">
+    <DescriptionDe>Hochosmolare ionische Monomere</DescriptionDe>
+    <DescriptionFr>Monomères ioniques à haute osmolarité</DescriptionFr>
+    <DescriptionIt>Monomeri ionici ad alta osmolarità </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="14.01.12.">
+    <DescriptionDe>Niederosmolare ionische Dimere</DescriptionDe>
+    <DescriptionFr>Dimères ioniques à basse osmolarité</DescriptionFr>
+    <DescriptionIt>Dimeri ionici a bassa osmolarità </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="14.01.13.">
+    <DescriptionDe>Niederosmolare nicht-ionische Monomere</DescriptionDe>
+    <DescriptionFr>Monomères non-ioniques à basse osmolarité</DescriptionFr>
+    <DescriptionIt>Monomeri non ionici a bassa osmolarità</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="14.01.14.">
+    <DescriptionDe>Niederosmolare nicht-ionische Dimere</DescriptionDe>
+    <DescriptionFr>Dimères non-ioniques à basse osmolarité</DescriptionFr>
+    <DescriptionIt>Dimeri non ionici a bassa osmolarità</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="14.01.20.">
+    <DescriptionDe>Enteral anzuwendende Präparate</DescriptionDe>
+    <DescriptionFr>Préparations pour administration entérale</DescriptionFr>
+    <DescriptionIt>Preparati per uso enterale</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="14.01.21.">
+    <DescriptionDe>Wasserlösliche Iodpräparate</DescriptionDe>
+    <DescriptionFr>Préparations de iode hydrosolubles</DescriptionFr>
+    <DescriptionIt>Preparati iodati idrosolubili</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="14.01.22.">
+    <DescriptionDe>Bariumsulfatpräparate</DescriptionDe>
+    <DescriptionFr>Préparations de sulfate de barium</DescriptionFr>
+    <DescriptionIt>Bario solfato </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="14.01.30.">
+    <DescriptionDe>Biliär eliminierte Präparate</DescriptionDe>
+    <DescriptionFr>Préparations à élimination par voie biliaire</DescriptionFr>
+    <DescriptionIt>Preparati eliminati per via biliare </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="14.01.31.">
+    <DescriptionDe>Parenterale</DescriptionDe>
+    <DescriptionFr>Pour usage parentéral</DescriptionFr>
+    <DescriptionIt>Parenterali</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="14.01.99.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varie</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="14.02.">
+    <DescriptionDe>Präparate für die magnetische Resonanztomographie</DescriptionDe>
+    <DescriptionFr>Préparartions pour l""imagerie par résonance magnétique</DescriptionFr>
+    <DescriptionIt>Preparati per risonanza magnetica</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="14.03.">
+    <DescriptionDe>Andere Diagnostica</DescriptionDe>
+    <DescriptionFr>Autres diagnostics</DescriptionFr>
+    <DescriptionIt>Altri diagnostici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="14.04.">
+    <DescriptionDe>Reagenzien</DescriptionDe>
+    <DescriptionFr>Réactifs</DescriptionFr>
+    <DescriptionIt>Reagenti </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="14.99.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varie</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="15.">
+    <DescriptionDe>ANTIDOTA</DescriptionDe>
+    <DescriptionFr>ANTIDOTES</DescriptionFr>
+    <DescriptionIt>ANTIDOTI</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="16.">
+    <DescriptionDe>KATIONENAUSTAUSCHER</DescriptionDe>
+    <DescriptionFr>ECHANGEURS DE CATIONS</DescriptionFr>
+    <DescriptionIt>SCAMBIATORI DI CATIONI</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="17.">
+    <DescriptionDe>RADIO-NUKLIDE</DescriptionDe>
+    <DescriptionFr>RADIONUCLEIDES</DescriptionFr>
+    <DescriptionIt>RADIONUCLIDI</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="17.01.">
+    <DescriptionDe>Radio-Diagnostica</DescriptionDe>
+    <DescriptionFr>Préparations radiodiagnostiques</DescriptionFr>
+    <DescriptionIt>Radiofarmaceutici diagnostici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="17.02.">
+    <DescriptionDe>Radio-Therapeutika</DescriptionDe>
+    <DescriptionFr>Médicaments radiothérapeutiques</DescriptionFr>
+    <DescriptionIt>Radiofarmaceutici terapeutici</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="17.03.">
+    <DescriptionDe>Generatoren</DescriptionDe>
+    <DescriptionFr>Générateurs</DescriptionFr>
+    <DescriptionIt>Generatori</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="17.04.">
+    <DescriptionDe>Kits</DescriptionDe>
+    <DescriptionFr>Kits</DescriptionFr>
+    <DescriptionIt>Kit</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="20.">
+    <DescriptionDe>KOMPLEMENTÄRARZNEIMITTEL (homöopathisch, anthroposophisch, asiatisch)</DescriptionDe>
+    <DescriptionFr>MÉDICAMENTS COMPLÉMENTAIRES (homéopathique, anthroposopique, asiatique)</DescriptionFr>
+    <DescriptionIt>KOMPLEMENTÄRARZNEIMITTEL (homöopathisch, anthroposophisch, asiatisch)</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="20.01.10.">
+    <DescriptionDe>Homöopathische Arzneimittel</DescriptionDe>
+    <DescriptionFr>Médicaments homéopathiques</DescriptionFr>
+    <DescriptionIt>Homöopathische Arzneimittel</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="20.02.">
+    <DescriptionDe>Anthroposophische Arzneimittel</DescriptionDe>
+    <DescriptionFr>Médicaments anthroposopiques</DescriptionFr>
+    <DescriptionIt>Anthroposophische Arzneimittel</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="20.03.">
+    <DescriptionDe>Asiatische Arzneimittel</DescriptionDe>
+    <DescriptionFr>Médicaments asiatiques</DescriptionFr>
+    <DescriptionIt>Asiatische Arzneimittel</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="20.03.20.">
+    <DescriptionDe>Tibetische Arzneimittel</DescriptionDe>
+    <DescriptionFr>Médicaments tibétains</DescriptionFr>
+    <DescriptionIt>Tibetische Arzneimittel</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="40.">
+    <DescriptionDe>KONFEKTIONIERTE PRÄPARATE</DescriptionDe>
+    <DescriptionFr>MÉDICAMENTS CONFECTIONNÉS</DescriptionFr>
+    <DescriptionIt>MEDICAMENTI CONFEZIONATI</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="51.">
+    <DescriptionDe>NERVENSYSTEM KOMPLEMENTÄRMEDIZIN</DescriptionDe>
+    <DescriptionFr>SYSTEME NERVEUX MEDECINES COMPLEMENTAIRES</DescriptionFr>
+    <DescriptionIt>SISTEMA NERVOSO</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="51.04.">
+    <DescriptionDe>Sedativa/Tranquillantia</DescriptionDe>
+    <DescriptionFr>Sedativa/Tranquillantia</DescriptionFr>
+    <DescriptionIt />
+    <Limitations />
+  </ItCode>
+  <ItCode Code="51.04.10.">
+    <DescriptionDe>Einfache Sedativa / Tranquillantia</DescriptionDe>
+    <DescriptionFr>Sédatifs - tranquillisants simples</DescriptionFr>
+    <DescriptionIt>Sédatifs - tranquillisants simples</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="51.04.20.">
+    <DescriptionDe>Kombinierte Sedativa / Tranquilantia</DescriptionDe>
+    <DescriptionFr>Sédatifs - tranquilisants composées</DescriptionFr>
+    <DescriptionIt>Sédatifs - tranquilisants composées</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="51.06.">
+    <DescriptionDe>Antidepressiva</DescriptionDe>
+    <DescriptionFr>Antidepressiva</DescriptionFr>
+    <DescriptionIt>Antidepressiva</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="51.99.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varia</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="52.">
+    <DescriptionDe>HERZ UND KREISLAUF KOMPLEMENTÄRMEDIZIN</DescriptionDe>
+    <DescriptionFr>COEUR ET CIRCULATION MEDECINES COMPLEMENTAIRES</DescriptionFr>
+    <DescriptionIt>SISTEMA CARDIOVASCOLARE</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="52.08.">
+    <DescriptionDe>Venenmittel</DescriptionDe>
+    <DescriptionFr>Médicaments pour les veines</DescriptionFr>
+    <DescriptionIt />
+    <Limitations />
+  </ItCode>
+  <ItCode Code="52.08.10.">
+    <DescriptionDe>Allgemeine Venenmittel</DescriptionDe>
+    <DescriptionFr>Généreaux</DescriptionFr>
+    <DescriptionIt>Généreaux</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="52.97.">
+    <DescriptionDe>Beschwerden bei Arteriosklerose</DescriptionDe>
+    <DescriptionFr>Troubles lors d'artériosclérose</DescriptionFr>
+    <DescriptionIt>Troubles lors d'artériosclérose</DescriptionIt>
+    <Limitations>
+      <Limitation>
+        <LimitationCode>SYMFONA</LimitationCode>
+        <LimitationType>PKT</LimitationType>
+        <LimitationNiveau>I</LimitationNiveau>
+        <LimitationValue>240</LimitationValue>
+        <DescriptionDe>Gesamthaft zugelassen: 240 Punkte (innerhalb von drei Monaten)</DescriptionDe>
+        <DescriptionFr>Prescription limitée au maximum à: 240 points (pour la durée de trois mois)</DescriptionFr>
+        <DescriptionIt>Ammessi in totale: 240 punti (per la durata di tre mesi)</DescriptionIt>
+        <ValidFromDate>01.01.2000</ValidFromDate>
+        <ValidThruDate>31.12.9999</ValidThruDate>
+      </Limitation>
+    </Limitations>
+  </ItCode>
+  <ItCode Code="52.98.">
+    <DescriptionDe>Nervöse Herzbeschwerden</DescriptionDe>
+    <DescriptionFr>Troubles cardiaques d'origine nerveuse</DescriptionFr>
+    <DescriptionIt>Troubles cardiaques d'origine nerveuse</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="53.">
+    <DescriptionDe>LUNGE UND ATMUNG KOMPLEMENTÄRMEDIZIN</DescriptionDe>
+    <DescriptionFr>SYSTEME RESPIRATOIRE MEDECINES COMPLEMENTAIRES</DescriptionFr>
+    <DescriptionIt>SISTEMA RESPIRATORIO</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="53.02.">
+    <DescriptionDe>Expectorantia et Mucolytica</DescriptionDe>
+    <DescriptionFr>Expectorantia et Mucolytica</DescriptionFr>
+    <DescriptionIt>Expectorantia et Mucolytica</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="53.99.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varia</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="54.">
+    <DescriptionDe>GASTROENTEROLOGIKA KOMPLEMENTÄRMEDIZIN</DescriptionDe>
+    <DescriptionFr>GASTROENTEROLOGIKA MEDECINES COMPLEMENTAIRES</DescriptionFr>
+    <DescriptionIt>GASTROENTEROLOGICI</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="54.08.">
+    <DescriptionDe>Laxantia</DescriptionDe>
+    <DescriptionFr>Laxantia</DescriptionFr>
+    <DescriptionIt>Laxantia</DescriptionIt>
+    <Limitations>
+      <Limitation>
+        <LimitationCode>KLEINPACKUNG</LimitationCode>
+        <LimitationType>DIA</LimitationType>
+        <LimitationNiveau>IP</LimitationNiveau>
+        <DescriptionDe>Gesamthaft zugelassen &lt;b&gt;2 Kleinpackungen&lt;/b&gt; oder &lt;b&gt;1 Grosspackung&lt;/b&gt;.
+Von dieser Beschränkung ist die Behandlung der Obstipation aufgrund von Opioidtherapie, von Parkinsontherapie sowie diejenige der Obstipation von Patienten, die Antidepressiva oder Neuroleptika unterstellt sind, ausgenommen. Im Weiteren sind davon ausgenommen Para- und Tetraplegiker.</DescriptionDe>
+        <DescriptionFr>Prescription limitée au maximum à &lt;b&gt;2 petits emballages&lt;/b&gt; ou &lt;b&gt;1 grand emballage&lt;/b&gt;.
+Cette limitation ne s'applique pas à la prise en charge des cas de constipation résultant d'un traitement par des opioïdes ou par des antiparkinsoniens ou encore à ceux consécutifs à la prise d'antidépresseurs ou de neuroleptiques. Cette limitation ne s'applique pas non plus aux paraplégiques et aux tétraplégiques.</DescriptionFr>
+        <DescriptionIt>Ammessi in totale: &lt;b&gt;2 confezioni piccole&lt;/b&gt; o &lt;b&gt;1 confezione grande&lt;/b&gt;.
+Fa eccezione a questa limitazione la terapia della stipsi conseguente al trattamento con analgesici narcotici (oppioidi), farmaci anti-Parkinson, farmaci antidepressivi e neurolettici. Ne sono inoltre esclusi i tetra- e i paraplegici.</DescriptionIt>
+        <ValidFromDate>01.06.2010</ValidFromDate>
+        <ValidThruDate>31.12.9999</ValidThruDate>
+      </Limitation>
+    </Limitations>
+  </ItCode>
+  <ItCode Code="54.08.10.">
+    <DescriptionDe>Laxantia</DescriptionDe>
+    <DescriptionFr>Laxantia</DescriptionFr>
+    <DescriptionIt>Laxantia</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="54.11.20.">
+    <DescriptionDe>Cholagoga</DescriptionDe>
+    <DescriptionFr>Cholagoga</DescriptionFr>
+    <DescriptionIt>Cholagoga</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="54.99.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varia</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="55.">
+    <DescriptionDe>NIEREN UND WASSERHAUSHALT KOMPLEMENTÄRMEDIZIN</DescriptionDe>
+    <DescriptionFr>REINS ET SOLUTIONS DE SUBSTITUTION MEDECINES COMPLEMENTAIRES</DescriptionFr>
+    <DescriptionIt>RENI E BILANCIO IDRICO</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="55.02.">
+    <DescriptionDe>Mittel gegen Erkrankungen der Harnwege</DescriptionDe>
+    <DescriptionFr>Médicaments contre les affections des voies urinaires</DescriptionFr>
+    <DescriptionIt>Médicaments contre les affections des voies urinaires</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="55.98.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varia</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="57.">
+    <DescriptionDe>STOFFWECHSEL KOMPLEMENTÄRMEDIZIN</DescriptionDe>
+    <DescriptionFr>METABOLISME MEDECINES COMPLEMENTAIRES</DescriptionFr>
+    <DescriptionIt>METABOLISMO </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="57.02.">
+    <DescriptionDe>Mineralia et Vitamina</DescriptionDe>
+    <DescriptionFr>Mineralia et Vitamina</DescriptionFr>
+    <DescriptionIt>Mineralia et Vitamina</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="57.02.10.">
+    <DescriptionDe>Mineralia</DescriptionDe>
+    <DescriptionFr>Mineralia</DescriptionFr>
+    <DescriptionIt>Mineralia</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="57.10.">
+    <DescriptionDe>Arthritis und rheumatische Krankheiten</DescriptionDe>
+    <DescriptionFr>Arthrites et affections rhumatismales</DescriptionFr>
+    <DescriptionIt>Arthrites et affections rhumatismales</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="57.10.10.">
+    <DescriptionDe>Einfache entzündungshemmende Mittel</DescriptionDe>
+    <DescriptionFr>Anti-inflammatoires simples</DescriptionFr>
+    <DescriptionIt>Anti-inflammatoires simples</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="57.10.40.">
+    <DescriptionDe>Kutane Mittel</DescriptionDe>
+    <DescriptionFr>Préparations cutanées</DescriptionFr>
+    <DescriptionIt>Préparations cutanées</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="57.10.50.">
+    <DescriptionDe>Badezusätze und Umschläge</DescriptionDe>
+    <DescriptionFr>Préparations pour bains et cataplasmes</DescriptionFr>
+    <DescriptionIt>Préparations pour bains et cataplasmes</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="57.10.60.">
+    <DescriptionDe>Andere Mittel gegen Arthritis und rheumatische Krankheiten</DescriptionDe>
+    <DescriptionFr>Autres médicaments contre l'arthrite et les affections rhumatismales</DescriptionFr>
+    <DescriptionIt>Autres médicaments contre l'arthrite et les affections rhumatismales</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="58.">
+    <DescriptionDe>INFEKTIONSKRANKHEITEN KOMPLEMENTÄRMEDIZIN</DescriptionDe>
+    <DescriptionFr>MALADIES INFECTIEUSES MEDECINES COMPLEMENTAIRES</DescriptionFr>
+    <DescriptionIt>MALATTIE INFETTIVE</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="58.03.">
+    <DescriptionDe>Mittel gegen Viren</DescriptionDe>
+    <DescriptionFr>Préparations antivirales</DescriptionFr>
+    <DescriptionIt>Préparations antivirales</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="59.">
+    <DescriptionDe>GYNAECOLOGICA KOMPLEMENTÄRMEDIZIN</DescriptionDe>
+    <DescriptionFr>GYNAECOLOGICA MEDECINES COMPLEMENTAIRES</DescriptionFr>
+    <DescriptionIt>GINECOLOGICI</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="59.99.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varia</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="60.">
+    <DescriptionDe>DERMATOLOGICA KOMPLEMENTÄRMEDIZIN</DescriptionDe>
+    <DescriptionFr>DERMATOLOGICA MEDECINES COMPLEMENTAIRES</DescriptionFr>
+    <DescriptionIt>DERMATOLOGICI</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="60.04.">
+    <DescriptionDe>Mittel gegen chronisches Ekzem und Seborrhoe</DescriptionDe>
+    <DescriptionFr>Préparations contre l'eczéma chronique et la séborrhée</DescriptionFr>
+    <DescriptionIt>Préparations contre l'eczéma chronique et la séborrhée</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="60.08.">
+    <DescriptionDe>Adstringierende und entzündungshemmende Mittel</DescriptionDe>
+    <DescriptionFr>Préparations stringentes et antiinflammatoires</DescriptionFr>
+    <DescriptionIt>Préparations stringentes et antiinflammatoires</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="60.09.">
+    <DescriptionDe>Antiinfektiöse Mittel</DescriptionDe>
+    <DescriptionFr>Préparations antiinfectieuses</DescriptionFr>
+    <DescriptionIt>Préparations antiinfectieuses</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="60.09.30.">
+    <DescriptionDe>Mittel gegen Viren</DescriptionDe>
+    <DescriptionFr>Préparations antivirales</DescriptionFr>
+    <DescriptionIt>Préparations antivirales</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="60.99.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varia</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="62.">
+    <DescriptionDe>OTO-RHINOLARYNGOLOGICA KOMPLEMENTÄRMEDIZIN</DescriptionDe>
+    <DescriptionFr>OTO-RHINOLARYNGOLOGICA MEDECINES COMPLEMENTAIRES</DescriptionFr>
+    <DescriptionIt>OTORINOLARINGOLOGICI </DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="62.02.">
+    <DescriptionDe>Nase</DescriptionDe>
+    <DescriptionFr>Nez</DescriptionFr>
+    <DescriptionIt>Nez</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="62.02.80.">
+    <DescriptionDe>Varia</DescriptionDe>
+    <DescriptionFr>Varia</DescriptionFr>
+    <DescriptionIt>Varia</DescriptionIt>
+    <Limitations />
+  </ItCode>
+  <ItCode Code="62.03.">
+    <DescriptionDe>Mund und Rachen</DescriptionDe>
+    <DescriptionFr>Bouche et gorge</DescriptionFr>
+    <DescriptionIt />
+    <Limitations />
+  </ItCode>
+  <ItCode Code="62.03.20.">
+    <DescriptionDe>Entzündungshemmende Mittel</DescriptionDe>
+    <DescriptionFr>Préparations antiphlogistiques</DescriptionFr>
+    <DescriptionIt />
+    <Limitations />
+  </ItCode>
+</ItCodes>
