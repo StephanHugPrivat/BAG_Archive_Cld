@@ -1,0 +1,54 @@
+# =============================================================================
+# templates/search.html
+# =============================================================================
+SEARCH_TEMPLATE = """{% extends "base.html" %}
+
+{% block content %}
+<h2>Suche</h2>
+
+<div class="search-box">
+    <form action="{{ url_for('search') }}" method="get">
+        <input type="text" 
+               name="q" 
+               value="{{ query }}"
+               placeholder="Medikament suchen..."
+               autofocus>
+    </form>
+</div>
+
+{% if query %}
+    {% if results %}
+        <h3>{{ results|length }} Ergebnisse für "{{ query }}"</h3>
+        
+        <table class="results-table">
+            <thead>
+                <tr>
+                    <th>Produktnummer</th>
+                    <th>Beschreibung</th>
+                    <th>Kategorie</th>
+                    <th>Aktueller Preis</th>
+                    <th>Aktion</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for product in results %}
+                <tr>
+                    <td>{{ product.product_number }}</td>
+                    <td>{{ product.description }}</td>
+                    <td>{{ product.category or '-' }}</td>
+                    <td>{{ '%.2f'|format(product.current_price) if product.current_price else '-' }} CHF</td>
+                    <td>
+                        <a href="{{ url_for('product_detail', product_id=product.id) }}" class="btn">
+                            Details anzeigen
+                        </a>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    {% else %}
+        <p style="margin-top: 20px;">Keine Ergebnisse für "{{ query }}" gefunden.</p>
+    {% endif %}
+{% endif %}
+{% endblock %}
+"""
