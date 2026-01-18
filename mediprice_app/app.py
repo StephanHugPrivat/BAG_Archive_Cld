@@ -10,15 +10,55 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 from datetime import datetime
 import os
-import io
-import base64
+import sys
+from pathlib import Path
+
+# Bestimme Root-Verzeichnis absolut
+SCRIPT_DIR = Path(__file__).parent.resolve()
+ROOT_DIR = SCRIPT_DIR.parent
+
+# Füge Root zum Python-Pfad hinzu
+sys.path.insert(0, str(ROOT_DIR))
+
+# Versuche Config zu importieren
+try:
+    from config import Config
+    USE_CONFIG = True
+    print(f"✅ Config geladen aus: {ROOT_DIR / 'config.py'}")
+except ImportError as e:
+    USE_CONFIG = False
+    print(f"⚠️  Config nicht gefunden: {e}")
+    print(f"   Gesucht in: {ROOT_DIR}")
+    print(f"   Verwende Fallback-Pfade")
 
 app = Flask(__name__)
-app.config['DATABASE'] = 'publications.db'
-app.config['PLOT_FOLDER'] = 'static/plots'
 
-# Erstelle plots Ordner falls nicht vorhanden
-os.makedirs(app.config['PLOT_FOLDER'], exist_ok=True)
+# Lade Konfiguration
+if USE_CONFIG:
+    app.config['DATABASE'] = str(Config.DB_PATH)
+    app.config['PLOT_FOLDER'] = str(Config.FLASK_PLOT_FOLDER)
+    app.config['SECRET_KEY'] = Config.FLASK_SECRET_KEY
+    Config.validate()
+else:
+    # Fallback: Absolute Pfade
+    app.config['DATABASE'] = str(SCRIPT_DIR / 'publications.db')
+    app.config['PLOT_FOLDER'] = str(SCRIPT_DIR / 'static' / 'plots')
+    app.config['SECRET_KEY'] = 'dev-secret-key-change-in-production'
+    
+    # Erstelle Plot-Ordner
+    os.makedirs(app.config['PLOT_FOLDER'], exist_ok=True)
+
+# Debug: Zeige welche DB verwendet wird
+print(f"\n{'='*70}")
+print("🗄️  DATENBANK-KONFIGURATION")
+print(f"{'='*70}")
+print(f"Datenbank-Pfad:  {app.config['DATABASE']}")
+print(f"DB existiert:    {'✅ Ja' if os.path.exists(app.config['DATABASE']) else '❌ Nein'}")
+if os.path.exists(app.config['DATABASE']):
+    db_size = os.path.getsize(app.config['DATABASE'])
+    print(f"DB Größe:        {db_size:,} Bytes")
+print(f"Plot-Ordner:     {app.config['PLOT_FOLDER']}")
+print(f"{'='*70}\n")
 
 
 def get_db_connection():
@@ -289,4 +329,8 @@ def api_search():
 
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5000)
+    # Zeige Konfiguration beim Start
+    print("\n🚀 Starte Flask-Applikation")
+    Config.print_config()
+    
+    app.run(debug=True, port=Config.FLASK_PORT)
