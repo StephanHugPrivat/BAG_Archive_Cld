@@ -1,0 +1,40 @@
+
+{% extends "base.html" %}
+
+{% block content %}
+<h2>Willkommen bei MediPrice</h2>
+
+<div class="stats-grid">
+    <div class="stat-card">
+        <h3>{{ product_count }}</h3>
+        <p>Medikamente</p>
+    </div>
+    <div class="stat-card">
+        <h3>{{ price_count }}</h3>
+        <p>Preiseinträge</p>
+    </div>
+    <div class="stat-card">
+        <h3>{{ latest_date }}</h3>
+        <p>Letztes Update</p>
+    </div>
+</div>
+
+<div class="search-box">
+    <form action="{{ url_for('search') }}" method="get">
+        <input type="text" 
+               name="q" 
+               placeholder="Medikament suchen (Produktnummer oder Name)..."
+               autofocus>
+    </form>
+</div>
+
+<div style="margin-top: 30px; padding: 20px; background: #f8f9fa; border-radius: 8px;">
+    <h3>Wie funktioniert's?</h3>
+    <ol style="margin-top: 15px; line-height: 1.8;">
+        <li>Geben Sie einen Suchbegriff ein (Produktnummer oder Medikamentenname)</li>
+        <li>Wählen Sie ein Medikament aus den Suchergebnissen</li>
+        <li>Sehen Sie den Preisverlauf über die Zeit visualisiert</li>
+    </ol>
+</div>
+{% endblock %}
+

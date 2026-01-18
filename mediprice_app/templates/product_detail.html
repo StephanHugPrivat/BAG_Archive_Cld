@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2>{{ product.product_number }}</h2>
+<p style="font-size: 1.2em; color: #666;">{{ product.description }}</p>
+
+<div style="margin: 20px 0; padding: 15px; background: #f8f9fa; border-radius: 8px;">
+    <strong>Kategorie:</strong> {{ product.category or '-' }} | 
+    <strong>Einheit:</strong> {{ product.unit or '-' }}
+</div>
+
+{% if stats %}
+<div class="stats-grid">
+    <div class="stat-card">
+        <h3>{{ '%.2f'|format(stats.current) }} CHF</h3>
+        <p>Aktueller Preis</p>
+    </div>
+    <div class="stat-card">
+        <h3>{{ '%.2f'|format(stats.avg) }} CHF</h3>
+        <p>Durchschnitt</p>
+    </div>
+    <div class="stat-card">
+        <h3 class="{% if stats.change > 0 %}price-change-positive{% else %}price-change-negative{% endif %}">
+            {{ '+' if stats.change > 0 else '' }}{{ '%.2f'|format(stats.change) }} CHF
+        </h3>
+        <p>Änderung ({{ '+' if stats.change_percent > 0 else '' }}{{ '%.1f'|format(stats.change_percent) }}%)</p>
+    </div>
+</div>
+{% endif %}
+
+{% if chart_filename %}
+<div class="chart-container">
+    <h3>Preisverlauf</h3>
+    <img src="{{ url_for('static', filename='plots/' + chart_filename) }}" alt="Preisverlauf">
+</div>
+{% endif %}
+
+<h3 style="margin-top: 30px;">Preishistorie</h3>
+<table class="results-table">
+    <thead>
+        <tr>
+            <th>Datum</th>
+            <th>Preis</th>
+            <th>Quelle</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for price in prices %}
+        <tr>
+            <td>{{ price.valid_from }}</td>
+            <td>{{ '%.2f'|format(price.price) }} CHF</td>
+            <td>{{ price.source_file }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+<div style="margin-top: 20px;">
+    <a href="{{ url_for('search') }}" class="btn">← Zurück zur Suche</a>
+</div>
+{% endblock %}
