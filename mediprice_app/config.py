@@ -33,7 +33,7 @@ class Config:
     FLASK_ENV = os.getenv('FLASK_ENV', 'development')
     FLASK_SECRET_KEY = os.getenv('FLASK_SECRET_KEY', 'dev-secret-key')
     FLASK_PORT = int(os.getenv('FLASK_PORT', '5000'))
-    FLASK_PLOT_FOLDER = ROOT_DIR / os.getenv('FLASK_PLOT_FOLDER', 'mediprice_app/static/plots')
+    FLASK_PLOT_FOLDER = ROOT_DIR / os.getenv('FLASK_PLOT_FOLDER', 'static/plots')
     
     # Logging
     LOG_LEVEL = os.getenv('LOG_LEVEL', 'INFO')
